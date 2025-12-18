@@ -213,15 +213,8 @@ La app **AppPECL3** permite:
 
 ---
 
-## Entrega — Vídeo de demostración
+## Autores
 
-Se recomienda incluir en el vídeo:
+- **Álvaro Fuentes Lozano**
+- **Lucía Cantero Anchuelo**
 
-- **Infraestructura Docker**: Docker Compose levantando servicios (Tomcat/MariaDB/Mosquitto)
-- **App Android:**
-  - Selección de calle y dispositivo
-  - Carga del histórico filtrado
-  - Recepción en vivo por MQTT
-  - Acciones de control (force + buzzer)
-- **Conexión con el dispositivo PECL1** en tiempo real (si es posible):
-  - Cambios del semáforo tras enviar acciones desde la app
