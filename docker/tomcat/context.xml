@@ -1,0 +1,13 @@
+<Context>
+    <Resource
+        name="jdbc/ubicomp"
+        auth="Container"
+        type="javax.sql.DataSource"
+        maxTotal="20"
+        maxIdle="10"
+        maxWaitMillis="5000"
+        username="pecl2_user"
+        password="pecl2_pass"
+        driverClassName="org.mariadb.jdbc.Driver"
+        url="jdbc:mariadb://ubicomp-db:3306/pecl2"/>
+</Context>

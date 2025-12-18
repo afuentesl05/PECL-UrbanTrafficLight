@@ -1,0 +1,50 @@
+
+
+services:
+  mqtt-broker:
+    build: ./mqtt
+    container_name: mqtt-broker
+    ports:
+      - "1883:1883"
+    volumes:
+      - ./mqtt/config:/mosquitto/config
+      - ./mqtt/data:/mosquitto/data
+      - ./mqtt/log:/mosquitto/log
+    restart: unless-stopped
+    networks:
+      - urban-net
+
+  database:
+    build: ./database
+    container_name: ubicomp-db
+    image: pl2-database
+    environment:
+      - MYSQL_ROOT_PASSWORD=rootpass
+      - MYSQL_DATABASE=pecl2
+      - MYSQL_USER=pecl2_user
+      - MYSQL_PASSWORD=pecl2_pass
+    volumes:
+      - db_data:/var/lib/mysql
+    restart: unless-stopped
+    networks:
+      - urban-net
+
+  tomcat:
+    build: ./tomcat
+    container_name: ubicomp-tomcat
+    depends_on:
+      - database
+      - mqtt-broker
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+    networks:
+      - urban-net
+
+networks:
+  urban-net:
+    driver: bridge
+
+volumes:
+  db_data:
+  tomcat_webapps:

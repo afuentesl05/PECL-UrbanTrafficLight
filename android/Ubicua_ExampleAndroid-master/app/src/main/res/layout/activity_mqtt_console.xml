@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorSurface">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/topAppBar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:title="Consola MQTT"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <ScrollView
+        android:id="@+id/scrollContainer"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        app:layout_constraintTop_toBottomOf="@id/topAppBar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/textTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Consola MQTT directa"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="?attr/colorOnSurface"
+                android:paddingBottom="8dp" />
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="18dp"
+                app:strokeWidth="1dp"
+                app:strokeColor="?attr/colorOutline">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Suscribirse a topic"
+                        android:textColor="?attr/colorOnSurface"
+                        android:textStyle="bold"/>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        app:boxStrokeColor="?attr/colorOutline"
+                        app:hintTextColor="?attr/colorOnSurfaceVariant"
+                        android:hint="Ej: sensors/#">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/editSubTopic"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="text"/>
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnAddSub"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Añadir suscripción"
+                        android:layout_marginTop="10dp"/>
+
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                app:cardCornerRadius="18dp"
+                app:strokeWidth="1dp"
+                app:strokeColor="?attr/colorOutline">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="14dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Publicar mensaje"
+                        android:textColor="?attr/colorOnSurface"
+                        android:textStyle="bold"/>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:hint="Topic"
+                        app:boxStrokeColor="?attr/colorOutline">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/editPubTopic"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="text"
+                            android:hint="sensors/ST_2245/traffic_light/TL_001/cmd"/>
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:hint="Payload"
+                        app:boxStrokeColor="?attr/colorOutline">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/editPubPayload"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:inputType="textMultiLine"
+                            android:minLines="2"
+                            android:hint="{ &quot;force&quot;: &quot;ped_green&quot; }"/>
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnPublish"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Enviar mensaje"
+                        android:layout_marginTop="10dp"/>
+
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnClearLog"
+                        style="?attr/materialButtonOutlinedStyle"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Limpiar log"
+                        android:layout_marginTop="6dp"/>
+
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="320dp"
+                android:layout_marginTop="14dp"
+                app:cardCornerRadius="18dp"
+                app:strokeWidth="1dp"
+                app:strokeColor="?attr/colorOutline">
+
+                <TextView
+                    android:id="@+id/textLog"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:padding="12dp"
+                    android:textSize="12sp"
+                    android:typeface="monospace"
+                    android:textColor="?attr/colorOnSurface"
+                    android:background="?attr/colorSurface"/>
+            </com.google.android.material.card.MaterialCardView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

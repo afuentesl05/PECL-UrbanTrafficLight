@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Traffic Light - Pedestrian Force</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <style>
+        :root {
+            --bg: #f3f5f9;
+            --card-bg: #ffffff;
+            --accent: #2563eb;
+            --accent-dark: #1d4ed8;
+            --text: #111827;
+            --text-soft: #6b7280;
+            --border: #e5e7eb;
+            --success-soft: #dcfce7;
+            --shadow-soft: 0 10px 25px rgba(15, 23, 42, 0.05);
+        }
+
+        html, body { height: 100%; }
+
+        body {
+            font-family: system-ui, sans-serif;
+            background: radial-gradient(circle at top left, #e0edff, #f8fafc);
+            padding: 24px;
+            margin: 0;
+            color: var(--text);
+            overflow: hidden;
+        }
+
+        .page { max-width: 1280px; margin: auto; }
+
+        .page-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 16px;
+            color: var(--text-soft);
+            font-size: 13px;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+        }
+
+        h1 { margin: 0; font-size: 22px; }
+
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 16px;
+            box-shadow: var(--shadow-soft);
+            height: calc(100vh - 80px);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card-header {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 10px;
+            align-items: center;
+        }
+
+        .button {
+            padding: 8px 18px;
+            border-radius: 999px;
+            border: 1px solid var(--border);
+            background: white;
+            cursor: pointer;
+            font-size: 13px;
+        }
+
+        .button-primary {
+            background: var(--accent);
+            color: white;
+            border-color: var(--accent-dark);
+        }
+
+        .button-primary:hover { background: var(--accent-dark); }
+
+        .button-pill { font-size: 12px; padding: 6px 12px; }
+
+        .select-pill, .input-pill {
+            border-radius: 999px;
+            border: 1px solid var(--border);
+            padding: 7px 12px;
+            background: #f9fafb;
+            font-size: 12px;
+        }
+
+        .table-wrapper {
+            flex: 1;
+            margin-top: 4px;
+            max-height: calc(100vh - 160px);
+            overflow-y: auto;
+            border-radius: 12px;
+        }
+
+        table { width: 100%; border-collapse: collapse; }
+
+        thead th {
+            background: #f3f4f6;
+            position: sticky;
+            top: 0;
+            padding: 8px;
+            font-size: 11px;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+        }
+
+        tbody tr:nth-child(even) { background: #f9fafb; }
+
+        .state-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 2px 9px;
+            border-radius: 999px;
+            font-size: 11px;
+            font-weight: 500;
+        }
+
+        .state-dot {
+            width: 8px; height: 8px;
+            border-radius: 999px;
+        }
+
+        .state-veh_green { background: #ecfeff; color: #0369a1; }
+        .state-veh_green .state-dot { background: #0ea5e9; }
+
+        .state-ped_green { background: #90EE90; color: #008000; }
+        .state-ped_green .state-dot { background: #7BB369; }
+
+        .state-amber { background: #fef3c7; color: #92400e; }
+        .state-amber .state-dot { background: #f59e0b; }
+
+        .state-red { background: #fee2e2; color: #b91c1c; }
+        .state-red .state-dot { background: #ef4444; }
+
+        .badge-yes { background: var(--success-soft); padding: 2px 8px; border-radius: 999px; font-size: 11px; }
+        .badge-no  { background: #e0e0e0; padding: 2px 8px; border-radius: 999px; font-size: 11px; }
+
+        .btn-indicator-dot {
+            width: 7px; height: 7px;
+            border-radius: 999px;
+            background: #22c55e;
+        }
+        .btn-indicator-dot.off { background: #ef4444; }
+    </style>
+</head>
+
+<body>
+
+<div class="page">
+    <div class="page-header">
+        <div>
+            <div>Dashboard · Urban Traffic Light</div>
+            <h1>Traffic Light - Pedestrian Force</h1>
+        </div>
+        <div id="lastUpdate">Last update: --:--:--</div>
+    </div>
+
+    <div class="card">
+
+        <div class="card-header">
+            <button id="forceBtn" class="button button-primary">Force PEDESTRIAN GREEN</button>
+
+            <button id="buzzerBtn" class="button">
+                <span id="buzzerDot" class="btn-indicator-dot"></span>
+                <span id="buzzerLabel">Buzzer</span>
+            </button>
+
+            <div style="margin-left:auto; display:flex; gap:10px; flex-wrap:wrap;">
+                <select id="deviceSelect" class="select-pill">
+                    <option value="all">All devices</option>
+                </select>
+
+                <input type="datetime-local" id="startDate" class="input-pill">
+                <input type="datetime-local" id="endDate" class="input-pill">
+
+                <button id="applyFilter" class="button button-pill">Apply</button>
+                <button id="clearFilter" class="button button-pill">Clear</button>
+            </div>
+        </div>
+
+        <div class="table-wrapper">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Timestamp</th>
+                        <th>Device</th>
+                        <th>Current State</th>
+                        <th>Time Remaining</th>
+                        <th>Cycle Count</th>
+                        <th>Traffic</th>
+                        <th>Direction</th>
+                        <th>Ped Waiting</th>
+                        <th>Button</th>
+                    </tr>
+                </thead>
+                <tbody id="dataTable"></tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+let buzzerOn = true;
+
+// --- Formatea timestamp ---
+function formatLocalTimestamp(ts) {
+    if (!ts) return "";
+    const d = new Date(ts);
+    if (isNaN(d)) return ts;
+
+    const yyyy = d.getFullYear();
+    const MM   = String(d.getMonth() + 1).padStart(2, "0");
+    const dd   = String(d.getDate()).padStart(2, "0");
+    const hh   = String(d.getHours() + 1).padStart(2, "0");
+    const mm   = String(d.getMinutes()).padStart(2, "0");
+    const ss   = String(d.getSeconds()).padStart(2, "0");
+
+    return `${yyyy}-${MM}-${dd} ${hh}:${mm}:${ss}`;
+}
+
+$(document).ready(function () {
+    // Cargar datos al inicio con todos los registros
+    applyFiltersAndRender();
+
+    $("#forceBtn").click(forcePedestrianGreen);
+    $("#buzzerBtn").click(toggleBuzzer);
+    $("#applyFilter").click(applyFiltersAndRender);
+    $("#clearFilter").click(() => {
+        $("#startDate").val("");
+        $("#endDate").val("");
+        $("#deviceSelect").val("all");
+        applyFiltersAndRender();
+    });
+    $("#deviceSelect").change(applyFiltersAndRender);
+});
+
+// =================== LLAMADA AL ENDPOINT FILTRADO ===================
+
+function applyFiltersAndRender() {
+    const device = $("#deviceSelect").val() || "all";
+    const start  = $("#startDate").val();   // ej: "2025-12-05T16:30"
+    const end    = $("#endDate").val();
+
+    $.ajax({
+        url: "/GetDataFiltered",
+        method: "GET",
+        data: {
+            device: device,
+            startDate: start,
+            endDate: end
+        },
+        success: function (response) {
+            let data;
+            try {
+                data = (typeof response === "string") ? JSON.parse(response) : response;
+                if (!Array.isArray(data)) data = [];
+            } catch (e) {
+                console.error("JSON parse error:", e);
+                data = [];
+            }
+
+            buildDeviceOptions(data);  // refresca combo con los dispositivos vistos
+            renderTable(data);
+
+            const now = new Date();
+            $("#lastUpdate").text(
+                "Last update: " + now.toLocaleTimeString("es-ES")
+            );
+        },
+        error: function (xhr, status, err) {
+            console.error("Error calling /GetDataFiltered:", status, err);
+        }
+    });
+}
+
+// =================== PINTAR SELECT Y TABLA ===================
+
+function buildDeviceOptions(data) {
+    const select = $("#deviceSelect");
+    const previous = select.val();
+
+    const ids = [...new Set(data
+        .map(r => r.dispositivoSensorId)
+        .filter(v => v != null))];
+
+    select.empty().append('<option value="all">All devices</option>');
+
+    ids.sort().forEach(id => {
+        select.append(`<option value="${id}">Device ${id}</option>`);
+    });
+
+    if (previous && (previous === "all" || ids.includes(parseInt(previous)))) {
+        select.val(previous);
+    } else {
+        select.val("all");
+    }
+}
+
+function renderTable(data) {
+    const tbody = $("#dataTable");
+    tbody.empty();
+
+    let html = "";
+
+    data.forEach(v => {
+        const ts = formatLocalTimestamp(v.timestamp);
+
+        let cls = "state-pill";
+        switch (v.currentState) {
+            case "green":     cls += " state-veh_green"; break;
+            case "ped_green": cls += " state-ped_green"; break;
+            case "amber":     cls += " state-amber";     break;
+            default:          cls += " state-red";
+        }
+
+        const pedW = v.pedestrianWaiting ? "YES" : "NO";
+        const pedB = v.pedestrianButtonPressed ? "YES" : "NO";
+
+        html += `
+            <tr>
+                <td>${ts}</td>
+                <td>Device ${v.dispositivoSensorId ?? ""}</td>
+                <td><span class="${cls}"><span class="state-dot"></span>${v.currentState}</span></td>
+                <td>${v.timeRemainingSeconds ?? ""}</td>
+                <td>${v.cycleCount ?? ""}</td>
+                <td>${v.trafficLightType ?? ""}</td>
+                <td>${v.circulationDirection ?? ""}</td>
+                <td><span class="${pedW === "YES" ? "badge-yes" : "badge-no"}">${pedW}</span></td>
+                <td><span class="${pedB === "YES" ? "badge-yes" : "badge-no"}">${pedB}</span></td>
+            </tr>
+        `;
+    });
+
+    tbody.append(html);
+}
+
+// =================== BOTONES MQTT ===================
+
+function forcePedestrianGreen() {
+    $.post("/SetData", { action: "force" }, function () {
+        applyFiltersAndRender();
+    });
+}
+
+function toggleBuzzer() {
+    buzzerOn = !buzzerOn;
+
+    $.post("/SetData", {
+        action: "buzzer",
+        enabled: buzzerOn
+    });
+}
+</script>
+
+
+</body>
+</html>

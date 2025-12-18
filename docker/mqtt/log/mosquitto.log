@@ -1,0 +1,2368 @@
+1763725908: mosquitto version 2.0.22 starting
+1763725908: Config loaded from /mosquitto/config/mosquitto.conf.
+1763725908: Opening ipv4 listen socket on port 1883.
+1763725908: Opening ipv6 listen socket on port 1883.
+1763725908: Opening websockets listen socket on port 9001.
+1763725908: mosquitto version 2.0.22 running
+1764238295: mosquitto version 2.0.22 starting
+1764238295: Config loaded from /mosquitto/config/mosquitto.conf.
+1764238295: Opening ipv4 listen socket on port 1883.
+1764238295: Opening ipv6 listen socket on port 1883.
+1764238295: Opening websockets listen socket on port 9001.
+1764238295: mosquitto version 2.0.22 running
+1764246069: mosquitto version 2.0.22 starting
+1764246069: Config loaded from /mosquitto/config/mosquitto.conf.
+1764246069: Opening ipv4 listen socket on port 1883.
+1764246069: Opening ipv6 listen socket on port 1883.
+1764246069: Opening websockets listen socket on port 9001.
+1764246069: mosquitto version 2.0.22 running
+1764328929: mosquitto version 2.0.22 starting
+1764328929: Config loaded from /mosquitto/config/mosquitto.conf.
+1764328929: Opening ipv4 listen socket on port 1883.
+1764328929: Opening ipv6 listen socket on port 1883.
+1764328929: Opening websockets listen socket on port 9001.
+1764328929: mosquitto version 2.0.22 running
+1764329312: mosquitto version 2.0.22 starting
+1764329312: Config loaded from /mosquitto/config/mosquitto.conf.
+1764329312: Opening ipv4 listen socket on port 1883.
+1764329312: Opening ipv6 listen socket on port 1883.
+1764329312: Opening websockets listen socket on port 9001.
+1764329312: mosquitto version 2.0.22 running
+1764329329: mosquitto version 2.0.22 terminating
+1764329329: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764329349: mosquitto version 2.0.22 starting
+1764329349: Config loaded from /mosquitto/config/mosquitto.conf.
+1764329349: Opening ipv4 listen socket on port 1883.
+1764329349: Opening ipv6 listen socket on port 1883.
+1764329349: Opening websockets listen socket on port 9001.
+1764329349: mosquitto version 2.0.22 running
+1764329385: New connection from 172.19.0.1:50760 on port 1883.
+1764329385: Client <unknown> disconnected due to protocol error.
+1764329385: New connection from 172.19.0.1:50764 on port 1883.
+1764329385: Client <unknown> disconnected due to protocol error.
+1764329385: New connection from 172.19.0.1:50766 on port 1883.
+1764329385: New connection from 172.19.0.1:50772 on port 1883.
+1764329387: Client <unknown> disconnected due to protocol error.
+1764329387: Client <unknown> disconnected due to protocol error.
+1764329387: New connection from 172.19.0.1:53350 on port 1883.
+1764329387: Client <unknown> disconnected due to protocol error.
+1764329395: New connection from 172.19.0.1:53364 on port 1883.
+1764329395: Client <unknown> disconnected due to protocol error.
+1764329395: New connection from 172.19.0.1:53376 on port 1883.
+1764329395: Client <unknown> disconnected due to protocol error.
+1764329395: New connection from 172.19.0.1:53378 on port 1883.
+1764329395: New connection from 172.19.0.1:53394 on port 1883.
+1764329395: Client <unknown> closed its connection.
+1764329395: Client <unknown> closed its connection.
+1764329397: New connection from 172.19.0.1:38368 on port 1883.
+1764329397: New connection from 172.19.0.1:38372 on port 1883.
+1764329397: Client <unknown> disconnected due to protocol error.
+1764329457: Client <unknown> closed its connection.
+1764330815: mosquitto version 2.0.22 terminating
+1764330815: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764330863: mosquitto version 2.0.22 starting
+1764330863: Config loaded from /mosquitto/config/mosquitto.conf.
+1764330863: Opening ipv4 listen socket on port 1883.
+1764330863: Opening ipv6 listen socket on port 1883.
+1764330863: Opening websockets listen socket on port 9001.
+1764330863: mosquitto version 2.0.22 running
+1764330865: New connection from 172.19.0.4:42180 on port 1883.
+1764330866: New client connected from 172.19.0.4:42180 as SemaforoAyL-subscriber (p2, c0, k60).
+1764330866: New connection from 172.19.0.4:42196 on port 1883.
+1764330866: New client connected from 172.19.0.4:42196 as SemaforoAyL-publisher (p2, c1, k60).
+1764330866: Client SemaforoAyL-publisher disconnected.
+1764332047: Client SemaforoAyL-subscriber closed its connection.
+1764332047: mosquitto version 2.0.22 terminating
+1764332047: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764332057: mosquitto version 2.0.22 starting
+1764332057: Config loaded from /mosquitto/config/mosquitto.conf.
+1764332057: Opening ipv4 listen socket on port 1883.
+1764332057: Opening ipv6 listen socket on port 1883.
+1764332057: Opening websockets listen socket on port 9001.
+1764332057: mosquitto version 2.0.22 running
+1764332059: New connection from 172.19.0.4:41690 on port 1883.
+1764332059: New client connected from 172.19.0.4:41690 as SemaforoAyL-subscriber (p2, c0, k60).
+1764332059: New connection from 172.19.0.4:41700 on port 1883.
+1764332060: New client connected from 172.19.0.4:41700 as SemaforoAyL-publisher (p2, c1, k60).
+1764332060: Client SemaforoAyL-publisher disconnected.
+1764332656: Client SemaforoAyL-subscriber closed its connection.
+1764332656: mosquitto version 2.0.22 terminating
+1764332656: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764332667: mosquitto version 2.0.22 starting
+1764332667: Config loaded from /mosquitto/config/mosquitto.conf.
+1764332667: Opening ipv4 listen socket on port 1883.
+1764332667: Opening ipv6 listen socket on port 1883.
+1764332667: Opening websockets listen socket on port 9001.
+1764332667: mosquitto version 2.0.22 running
+1764332670: New connection from 172.19.0.4:40820 on port 1883.
+1764332670: New client connected from 172.19.0.4:40820 as SemaforoAyL-subscriber (p2, c0, k60).
+1764332670: New connection from 172.19.0.4:40836 on port 1883.
+1764332670: New client connected from 172.19.0.4:40836 as SemaforoAyL-publisher (p2, c1, k60).
+1764332670: Client SemaforoAyL-publisher disconnected.
+1764334583: mosquitto version 2.0.22 starting
+1764334583: Config loaded from /mosquitto/config/mosquitto.conf.
+1764334583: Opening ipv4 listen socket on port 1883.
+1764334583: Opening ipv6 listen socket on port 1883.
+1764334583: Opening websockets listen socket on port 9001.
+1764334583: mosquitto version 2.0.22 running
+1764334587: New connection from 172.19.0.2:53174 on port 1883.
+1764334588: New client connected from 172.19.0.2:53174 as SemaforoAyL-subscriber (p2, c0, k60).
+1764334588: New connection from 172.19.0.2:53178 on port 1883.
+1764334588: New client connected from 172.19.0.2:53178 as SemaforoAyL-publisher (p2, c1, k60).
+1764334588: Client SemaforoAyL-publisher disconnected.
+1764334592: Client SemaforoAyL-subscriber closed its connection.
+1764334592: mosquitto version 2.0.22 terminating
+1764334592: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764334602: mosquitto version 2.0.22 starting
+1764334602: Config loaded from /mosquitto/config/mosquitto.conf.
+1764334602: Opening ipv4 listen socket on port 1883.
+1764334602: Opening ipv6 listen socket on port 1883.
+1764334602: Opening websockets listen socket on port 9001.
+1764334602: mosquitto version 2.0.22 running
+1764334605: New connection from 172.19.0.4:43466 on port 1883.
+1764334605: New client connected from 172.19.0.4:43466 as SemaforoAyL-subscriber (p2, c0, k60).
+1764334605: New connection from 172.19.0.4:43480 on port 1883.
+1764334606: New client connected from 172.19.0.4:43480 as SemaforoAyL-publisher (p2, c1, k60).
+1764334606: Client SemaforoAyL-publisher disconnected.
+1764335827: Client SemaforoAyL-subscriber closed its connection.
+1764335827: mosquitto version 2.0.22 terminating
+1764335827: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764345218: mosquitto version 2.0.22 starting
+1764345218: Config loaded from /mosquitto/config/mosquitto.conf.
+1764345218: Opening ipv4 listen socket on port 1883.
+1764345218: Opening ipv6 listen socket on port 1883.
+1764345218: Opening websockets listen socket on port 9001.
+1764345218: mosquitto version 2.0.22 running
+1764345221: New connection from 172.19.0.4:42408 on port 1883.
+1764345221: New client connected from 172.19.0.4:42408 as SemaforoAyL-subscriber (p2, c0, k60).
+1764345221: New connection from 172.19.0.4:42410 on port 1883.
+1764345222: New client connected from 172.19.0.4:42410 as SemaforoAyL-publisher (p2, c1, k60).
+1764345222: Client SemaforoAyL-publisher disconnected.
+1764345257: New connection from 172.19.0.4:41070 on port 1883.
+1764345257: New client connected from 172.19.0.4:41070 as SemaforoAyL-publisher (p2, c1, k60).
+1764345257: Client SemaforoAyL-publisher disconnected.
+1764346408: Client SemaforoAyL-subscriber closed its connection.
+1764346409: mosquitto version 2.0.22 terminating
+1764346409: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764346422: mosquitto version 2.0.22 starting
+1764346422: Config loaded from /mosquitto/config/mosquitto.conf.
+1764346422: Opening ipv4 listen socket on port 1883.
+1764346422: Opening ipv6 listen socket on port 1883.
+1764346422: Opening websockets listen socket on port 9001.
+1764346422: mosquitto version 2.0.22 running
+1764346425: New connection from 172.19.0.4:58870 on port 1883.
+1764346425: New client connected from 172.19.0.4:58870 as SemaforoAyL-subscriber (p2, c0, k60).
+1764346425: New connection from 172.19.0.4:58886 on port 1883.
+1764346425: New client connected from 172.19.0.4:58886 as SemaforoAyL-publisher (p2, c1, k60).
+1764346425: Client SemaforoAyL-publisher disconnected.
+1764346640: New connection from 172.19.0.4:49194 on port 1883.
+1764346640: New client connected from 172.19.0.4:49194 as SemaforoAyL-publisher (p2, c1, k60).
+1764346640: Client SemaforoAyL-publisher disconnected.
+1764347164: Client SemaforoAyL-subscriber closed its connection.
+1764347165: mosquitto version 2.0.22 terminating
+1764347165: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764347178: mosquitto version 2.0.22 starting
+1764347178: Config loaded from /mosquitto/config/mosquitto.conf.
+1764347178: Opening ipv4 listen socket on port 1883.
+1764347178: Opening ipv6 listen socket on port 1883.
+1764347178: Opening websockets listen socket on port 9001.
+1764347178: mosquitto version 2.0.22 running
+1764347181: New connection from 172.19.0.4:35628 on port 1883.
+1764347181: New client connected from 172.19.0.4:35628 as SemaforoAyL-subscriber (p2, c0, k60).
+1764347181: New connection from 172.19.0.4:35642 on port 1883.
+1764347182: New client connected from 172.19.0.4:35642 as SemaforoAyL-publisher (p2, c1, k60).
+1764347182: Client SemaforoAyL-publisher disconnected.
+1764348278: New connection from 172.19.0.4:36504 on port 1883.
+1764348278: New client connected from 172.19.0.4:36504 as SemaforoAyL-publisher (p2, c1, k60).
+1764348278: Client SemaforoAyL-publisher disconnected.
+1764348921: Client SemaforoAyL-subscriber closed its connection.
+1764348921: mosquitto version 2.0.22 terminating
+1764348921: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764501076: mosquitto version 2.0.22 starting
+1764501076: Config loaded from /mosquitto/config/mosquitto.conf.
+1764501076: Opening ipv4 listen socket on port 1883.
+1764501076: Opening ipv6 listen socket on port 1883.
+1764501076: Opening websockets listen socket on port 9001.
+1764501076: mosquitto version 2.0.22 running
+1764501079: New connection from 172.18.0.4:49886 on port 1883.
+1764501079: New client connected from 172.18.0.4:49886 as SemaforoAyL-subscriber (p2, c0, k60).
+1764501079: New connection from 172.18.0.4:49888 on port 1883.
+1764501079: New client connected from 172.18.0.4:49888 as SemaforoAyL-publisher (p2, c1, k60).
+1764501079: Client SemaforoAyL-publisher disconnected.
+1764501226: New connection from 172.18.0.1:45252 on port 1883.
+1764501226: Client <unknown> disconnected due to protocol error.
+1764501227: New connection from 172.18.0.1:45264 on port 1883.
+1764501227: Client <unknown> disconnected due to protocol error.
+1764501249: New connection from 172.18.0.1:53446 on port 1883.
+1764501249: Client <unknown> disconnected due to protocol error.
+1764501250: New connection from 172.18.0.1:53460 on port 1883.
+1764501250: Client <unknown> disconnected due to protocol error.
+1764501270: New connection from 172.18.0.4:48148 on port 1883.
+1764501270: New client connected from 172.18.0.4:48148 as SemaforoAyL-publisher (p2, c1, k60).
+1764501270: Client SemaforoAyL-publisher disconnected.
+1764501331: New connection from 172.18.0.1:43044 on port 1883.
+1764501331: Client <unknown> disconnected due to protocol error.
+1764501332: New connection from 172.18.0.1:43058 on port 1883.
+1764501332: Client <unknown> disconnected due to protocol error.
+1764502877: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764502908: New connection from 172.18.0.1:43108 on port 1883.
+1764502908: Client <unknown> disconnected due to protocol error.
+1764502909: New connection from 172.18.0.1:52856 on port 1883.
+1764502909: Client <unknown> disconnected due to protocol error.
+1764502910: New connection from 172.18.0.1:52864 on port 1883.
+1764502910: Client <unknown> disconnected due to protocol error.
+1764503850: New connection from 172.18.0.1:56064 on port 1883.
+1764503850: New client connected from 172.18.0.1:56064 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764503994: New connection from 172.18.0.1:51972 on port 1883.
+1764503994: Client <unknown> disconnected due to protocol error.
+1764503995: New connection from 172.18.0.1:51984 on port 1883.
+1764503995: Client <unknown> disconnected due to protocol error.
+1764504000: New connection from 172.18.0.4:40334 on port 1883.
+1764504000: New client connected from 172.18.0.4:40334 as SemaforoAyL-publisher (p2, c1, k60).
+1764504000: Client SemaforoAyL-publisher disconnected.
+1764504256: New connection from 172.18.0.1:35064 on port 1883.
+1764504256: Client <unknown> disconnected due to protocol error.
+1764504257: New connection from 172.18.0.1:35072 on port 1883.
+1764504257: Client <unknown> disconnected due to protocol error.
+1764504261: New connection from 172.18.0.4:45962 on port 1883.
+1764504261: New client connected from 172.18.0.4:45962 as SemaforoAyL-publisher (p2, c1, k60).
+1764504261: Client SemaforoAyL-publisher disconnected.
+1764504678: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764504982: Client SemaforoAyL-subscriber closed its connection.
+1764504982: mosquitto version 2.0.22 terminating
+1764504982: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764505060: mosquitto version 2.0.22 starting
+1764505060: Config loaded from /mosquitto/config/mosquitto.conf.
+1764505060: Opening ipv4 listen socket on port 1883.
+1764505060: Opening ipv6 listen socket on port 1883.
+1764505060: Opening websockets listen socket on port 9001.
+1764505060: mosquitto version 2.0.22 running
+1764505062: New connection from 172.18.0.1:49752 on port 1883.
+1764505062: New client connected from 172.18.0.1:49752 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764505063: New connection from 172.18.0.4:37284 on port 1883.
+1764505063: New client connected from 172.18.0.4:37284 as SemaforoAyL-subscriber (p2, c0, k60).
+1764505063: New connection from 172.18.0.4:37288 on port 1883.
+1764505063: New client connected from 172.18.0.4:37288 as SemaforoAyL-publisher (p2, c1, k60).
+1764505063: Client SemaforoAyL-publisher disconnected.
+1764505198: Client SemaforoAyL-subscriber closed its connection.
+1764505198: mosquitto version 2.0.22 terminating
+1764505198: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764505220: mosquitto version 2.0.22 starting
+1764505220: Config loaded from /mosquitto/config/mosquitto.conf.
+1764505220: Opening ipv4 listen socket on port 1883.
+1764505220: Opening ipv6 listen socket on port 1883.
+1764505220: Opening websockets listen socket on port 9001.
+1764505220: mosquitto version 2.0.22 running
+1764505221: New connection from 172.18.0.1:58690 on port 1883.
+1764505221: New client connected from 172.18.0.1:58690 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764505223: New connection from 172.18.0.4:56008 on port 1883.
+1764505223: New client connected from 172.18.0.4:56008 as SemaforoAyL-subscriber (p2, c0, k60).
+1764505223: New connection from 172.18.0.4:56014 on port 1883.
+1764505224: New client connected from 172.18.0.4:56014 as SemaforoAyL-publisher (p2, c1, k60).
+1764505224: Client SemaforoAyL-publisher disconnected.
+1764505234: New connection from 172.18.0.1:55748 on port 1883.
+1764505234: Client ESP32_TL_001_885721B17478 already connected, closing old connection.
+1764505234: New client connected from 172.18.0.1:55748 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764505234: Client ESP32_TL_001_885721B17478 closed its connection.
+1764505234: New connection from 172.18.0.1:42974 on port 1883.
+1764505234: New client connected from 172.18.0.1:42974 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764505283: Client SemaforoAyL-subscriber closed its connection.
+1764505284: mosquitto version 2.0.22 terminating
+1764505284: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764505308: mosquitto version 2.0.22 starting
+1764505308: Config loaded from /mosquitto/config/mosquitto.conf.
+1764505308: Opening ipv4 listen socket on port 1883.
+1764505308: Opening ipv6 listen socket on port 1883.
+1764505308: Opening websockets listen socket on port 9001.
+1764505308: mosquitto version 2.0.22 running
+1764505308: New connection from 172.18.0.1:39774 on port 1883.
+1764505308: New client connected from 172.18.0.1:39774 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764505311: New connection from 172.18.0.4:37364 on port 1883.
+1764505311: New client connected from 172.18.0.4:37364 as SemaforoAyL-subscriber (p2, c0, k60).
+1764505311: New connection from 172.18.0.4:37370 on port 1883.
+1764505311: New client connected from 172.18.0.4:37370 as SemaforoAyL-publisher (p2, c1, k60).
+1764505311: Client SemaforoAyL-publisher disconnected.
+1764505320: New connection from 172.18.0.1:47086 on port 1883.
+1764505320: Client ESP32_TL_001_885721B17478 already connected, closing old connection.
+1764505320: New client connected from 172.18.0.1:47086 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764505320: Client ESP32_TL_001_885721B17478 closed its connection.
+1764505320: New connection from 172.18.0.1:45466 on port 1883.
+1764505320: New client connected from 172.18.0.1:45466 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764505345: New connection from 172.18.0.1:37232 on port 1883.
+1764505345: Client <unknown> disconnected due to protocol error.
+1764505346: New connection from 172.18.0.1:37234 on port 1883.
+1764505346: Client <unknown> disconnected due to protocol error.
+1764505364: New connection from 172.18.0.4:36062 on port 1883.
+1764505364: New client connected from 172.18.0.4:36062 as SemaforoAyL-publisher (p2, c1, k60).
+1764505364: Client SemaforoAyL-publisher disconnected.
+1764505382: New connection from 172.18.0.1:51680 on port 1883.
+1764505382: Client ESP32_TL_001_885721B17478 already connected, closing old connection.
+1764505382: New client connected from 172.18.0.1:51680 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764505560: New connection from 172.18.0.1:60074 on port 1883.
+1764505560: Client <unknown> disconnected due to protocol error.
+1764506560: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764506578: New connection from 172.18.0.1:33622 on port 1883.
+1764506669: Client <unknown> has exceeded timeout, disconnecting.
+1764506674: New connection from 172.18.0.1:56346 on port 1883.
+1764506674: New client connected from 172.18.0.1:56346 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764506697: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764506706: New connection from 172.18.0.1:45156 on port 1883.
+1764506706: New client connected from 172.18.0.1:45156 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764506736: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764506744: New connection from 172.18.0.1:37462 on port 1883.
+1764506744: New client connected from 172.18.0.1:37462 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764506767: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764506774: New connection from 172.18.0.1:39656 on port 1883.
+1764506774: New client connected from 172.18.0.1:39656 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764506829: New connection from 172.18.0.1:58188 on port 1883.
+1764506829: Client ESP32_TL_001_885721B17478 already connected, closing old connection.
+1764506829: New client connected from 172.18.0.1:58188 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764506856: New connection from 172.18.0.4:45286 on port 1883.
+1764506856: New client connected from 172.18.0.4:45286 as SemaforoAyL-publisher (p2, c1, k60).
+1764506856: Client SemaforoAyL-publisher disconnected.
+1764506879: New connection from 172.18.0.1:58146 on port 1883.
+1764506879: Client ESP32_TL_001_885721B17478 already connected, closing old connection.
+1764506879: New client connected from 172.18.0.1:58146 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764506920: Client ESP32_TL_001_885721B17478 disconnected: No error information.
+1764506921: New connection from 172.18.0.1:41914 on port 1883.
+1764506921: New client connected from 172.18.0.1:41914 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764506951: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764506951: New connection from 172.18.0.1:54106 on port 1883.
+1764506951: New client connected from 172.18.0.1:54106 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764506976: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764506981: New connection from 172.18.0.1:57916 on port 1883.
+1764507001: New client connected from 172.18.0.1:57916 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764507004: Client ESP32_TL_001_885721B17478 closed its connection.
+1764507004: New connection from 172.18.0.1:58030 on port 1883.
+1764507004: New client connected from 172.18.0.1:58030 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764507027: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764507027: New connection from 172.18.0.1:53576 on port 1883.
+1764507027: New client connected from 172.18.0.1:53576 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764507052: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764507062: New connection from 172.18.0.1:42442 on port 1883.
+1764507074: New client connected from 172.18.0.1:42442 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764507107: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764507109: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764508894: New connection from 172.18.0.1:43552 on port 1883.
+1764508894: New client connected from 172.18.0.1:43552 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764508910: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764508945: New connection from 172.18.0.1:58486 on port 1883.
+1764508945: Client <unknown> disconnected due to protocol error.
+1764509641: New connection from 172.18.0.4:42600 on port 1883.
+1764509641: New client connected from 172.18.0.4:42600 as SemaforoAyL-publisher (p2, c1, k60).
+1764509641: Client SemaforoAyL-publisher disconnected.
+1764510153: New connection from 172.18.0.4:46688 on port 1883.
+1764510153: New client connected from 172.18.0.4:46688 as SemaforoAyL-publisher (p2, c1, k60).
+1764510153: Client SemaforoAyL-publisher disconnected.
+1764510211: New connection from 172.18.0.4:50596 on port 1883.
+1764510211: New client connected from 172.18.0.4:50596 as SemaforoAyL-publisher (p2, c1, k60).
+1764510211: Client SemaforoAyL-publisher disconnected.
+1764510404: New connection from 172.18.0.4:46914 on port 1883.
+1764510404: New client connected from 172.18.0.4:46914 as SemaforoAyL-publisher (p2, c1, k60).
+1764510404: Client SemaforoAyL-publisher disconnected.
+1764510577: mosquitto version 2.0.22 terminating
+1764510577: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764510583: mosquitto version 2.0.22 starting
+1764510583: Config loaded from /mosquitto/config/mosquitto.conf.
+1764510583: Opening ipv4 listen socket on port 1883.
+1764510583: Opening ipv6 listen socket on port 1883.
+1764510583: Opening websockets listen socket on port 9001.
+1764510583: mosquitto version 2.0.22 running
+1764510586: New connection from 172.18.0.4:41504 on port 1883.
+1764510586: New client connected from 172.18.0.4:41504 as SemaforoAyL-subscriber (p2, c0, k60).
+1764510586: New connection from 172.18.0.4:41506 on port 1883.
+1764510587: New client connected from 172.18.0.4:41506 as SemaforoAyL-publisher (p2, c1, k60).
+1764510587: Client SemaforoAyL-publisher disconnected.
+1764510593: New connection from 172.18.0.1:48064 on port 1883.
+1764510593: New client connected from 172.18.0.1:48064 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764510611: New connection from 172.18.0.4:41700 on port 1883.
+1764510612: New client connected from 172.18.0.4:41700 as SemaforoAyL-publisher (p2, c1, k60).
+1764510612: Client SemaforoAyL-publisher disconnected.
+1764510633: New connection from 172.18.0.1:44184 on port 1883.
+1764510633: Client <unknown> disconnected due to protocol error.
+1764510635: New connection from 172.18.0.1:44186 on port 1883.
+1764510635: Client <unknown> disconnected due to protocol error.
+1764511395: New connection from 172.18.0.4:50722 on port 1883.
+1764511395: New client connected from 172.18.0.4:50722 as SemaforoAyL-publisher (p2, c1, k60).
+1764511395: Client SemaforoAyL-publisher disconnected.
+1764511396: New connection from 172.18.0.4:50730 on port 1883.
+1764511397: New client connected from 172.18.0.4:50730 as SemaforoAyL-publisher (p2, c1, k60).
+1764511397: Client SemaforoAyL-publisher disconnected.
+1764511399: New connection from 172.18.0.4:58466 on port 1883.
+1764511399: New client connected from 172.18.0.4:58466 as SemaforoAyL-publisher (p2, c1, k60).
+1764511399: Client SemaforoAyL-publisher disconnected.
+1764511402: New connection from 172.18.0.4:58468 on port 1883.
+1764511402: New client connected from 172.18.0.4:58468 as SemaforoAyL-publisher (p2, c1, k60).
+1764511402: Client SemaforoAyL-publisher disconnected.
+1764511763: New connection from 172.18.0.4:57918 on port 1883.
+1764511764: New client connected from 172.18.0.4:57918 as SemaforoAyL-publisher (p2, c1, k60).
+1764511764: Client SemaforoAyL-publisher disconnected.
+1764512383: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764512411: Client SemaforoAyL-subscriber closed its connection.
+1764512412: mosquitto version 2.0.22 terminating
+1764512412: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764512453: mosquitto version 2.0.22 starting
+1764512453: Config loaded from /mosquitto/config/mosquitto.conf.
+1764512453: Opening ipv4 listen socket on port 1883.
+1764512453: Opening ipv6 listen socket on port 1883.
+1764512453: Opening websockets listen socket on port 9001.
+1764512453: mosquitto version 2.0.22 running
+1764512456: New connection from 172.18.0.1:57158 on port 1883.
+1764512456: New client connected from 172.18.0.1:57158 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764512456: New connection from 172.18.0.4:56240 on port 1883.
+1764512457: New client connected from 172.18.0.4:56240 as SemaforoAyL-subscriber (p2, c0, k60).
+1764512457: New connection from 172.18.0.4:56254 on port 1883.
+1764512457: New client connected from 172.18.0.4:56254 as SemaforoAyL-publisher (p2, c1, k60).
+1764512457: Client SemaforoAyL-publisher disconnected.
+1764512481: New connection from 172.18.0.1:50534 on port 1883.
+1764512481: Client ESP32_TL_001_885721B17478 already connected, closing old connection.
+1764512481: New client connected from 172.18.0.1:50534 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764512481: Client ESP32_TL_001_885721B17478 closed its connection.
+1764512481: New connection from 172.18.0.1:47596 on port 1883.
+1764512481: New client connected from 172.18.0.1:47596 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764512563: New connection from 172.18.0.4:49474 on port 1883.
+1764512564: New client connected from 172.18.0.4:49474 as SemaforoAyL-publisher (p2, c1, k60).
+1764512564: Client SemaforoAyL-publisher disconnected.
+1764512654: New connection from 172.18.0.4:39776 on port 1883.
+1764512654: New client connected from 172.18.0.4:39776 as SemaforoAyL-publisher (p2, c1, k60).
+1764512654: Client SemaforoAyL-publisher disconnected.
+1764512694: New connection from 172.18.0.4:37012 on port 1883.
+1764512694: New connection from 172.18.0.4:37020 on port 1883.
+1764512694: New client connected from 172.18.0.4:37012 as SemaforoAyL-publisher (p2, c1, k60).
+1764512694: Client SemaforoAyL-publisher disconnected.
+1764512694: New client connected from 172.18.0.4:37020 as SemaforoAyL-publisher (p2, c1, k60).
+1764512694: Client SemaforoAyL-publisher disconnected.
+1764513357: New connection from 172.18.0.1:44162 on port 1883.
+1764513357: Client ESP32_TL_001_885721B17478 already connected, closing old connection.
+1764513357: New client connected from 172.18.0.1:44162 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764513358: New connection from 172.18.0.4:45430 on port 1883.
+1764513358: New client connected from 172.18.0.4:45430 as SemaforoAyL-publisher (p2, c1, k60).
+1764513358: Client SemaforoAyL-publisher disconnected.
+1764513917: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764513919: New connection from 172.18.0.1:47848 on port 1883.
+1764513919: New client connected from 172.18.0.1:47848 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764513949: New connection from 172.18.0.4:48256 on port 1883.
+1764513950: New client connected from 172.18.0.4:48256 as SemaforoAyL-publisher (p2, c1, k60).
+1764513950: Client SemaforoAyL-publisher disconnected.
+1764513977: New connection from 172.18.0.1:51712 on port 1883.
+1764513977: Client ESP32_TL_001_885721B17478 already connected, closing old connection.
+1764513977: New client connected from 172.18.0.1:51712 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764513982: New connection from 172.18.0.1:51718 on port 1883.
+1764513982: Client ESP32_TL_001_885721B17478 already connected, closing old connection.
+1764513982: New client connected from 172.18.0.1:51718 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764514022: New connection from 172.18.0.4:59346 on port 1883.
+1764514023: New client connected from 172.18.0.4:59346 as SemaforoAyL-publisher (p2, c1, k60).
+1764514023: Client SemaforoAyL-publisher disconnected.
+1764514157: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764514163: New connection from 172.18.0.1:53996 on port 1883.
+1764514163: New client connected from 172.18.0.1:53996 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764514197: New connection from 172.18.0.1:53204 on port 1883.
+1764514197: Client <unknown> disconnected due to protocol error.
+1764514198: New connection from 172.18.0.1:53214 on port 1883.
+1764514198: Client <unknown> disconnected due to protocol error.
+1764514199: New connection from 172.18.0.1:53224 on port 1883.
+1764514199: Client <unknown> disconnected due to protocol error.
+1764514205: New connection from 172.18.0.4:58318 on port 1883.
+1764514205: New client connected from 172.18.0.4:58318 as SemaforoAyL-publisher (p2, c1, k60).
+1764514205: Client SemaforoAyL-publisher disconnected.
+1764514253: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764515046: New connection from 172.18.0.1:51082 on port 1883.
+1764515046: Client <unknown> disconnected due to protocol error.
+1764515051: New connection from 172.18.0.1:35774 on port 1883.
+1764515051: Client <unknown> disconnected due to protocol error.
+1764515051: New connection from 172.18.0.1:35778 on port 1883.
+1764515051: Client <unknown> disconnected due to protocol error.
+1764515053: New connection from 172.18.0.1:35780 on port 1883.
+1764515053: Client <unknown> disconnected due to protocol error.
+1764515053: New connection from 172.18.0.1:35792 on port 1883.
+1764515053: Client <unknown> disconnected due to protocol error.
+1764515178: New connection from 172.18.0.1:53276 on port 1883.
+1764515178: Client <unknown> disconnected due to protocol error.
+1764515229: New connection from 172.18.0.4:51514 on port 1883.
+1764515229: New client connected from 172.18.0.4:51514 as SemaforoAyL-publisher (p2, c1, k60).
+1764515229: Client SemaforoAyL-publisher disconnected.
+1764515238: New connection from 172.18.0.1:56380 on port 1883.
+1764515238: Client <unknown> disconnected due to protocol error.
+1764515283: New connection from 172.18.0.1:35292 on port 1883.
+1764515283: Client <unknown> disconnected due to protocol error.
+1764515283: New connection from 172.18.0.1:35308 on port 1883.
+1764515283: Client <unknown> disconnected due to protocol error.
+1764515283: New connection from 172.18.0.1:35314 on port 1883.
+1764515283: Client <unknown> disconnected due to protocol error.
+1764515284: New connection from 172.18.0.1:35320 on port 1883.
+1764515284: Client <unknown> disconnected due to protocol error.
+1764515284: New connection from 172.18.0.1:35330 on port 1883.
+1764515284: Client <unknown> disconnected due to protocol error.
+1764515284: New connection from 172.18.0.1:35332 on port 1883.
+1764515284: Client <unknown> disconnected due to protocol error.
+1764515284: New connection from 172.18.0.1:35344 on port 1883.
+1764515284: Client <unknown> disconnected due to protocol error.
+1764515289: New connection from 172.18.0.1:50672 on port 1883.
+1764515289: Client <unknown> disconnected due to protocol error.
+1764515289: New connection from 172.18.0.1:50676 on port 1883.
+1764515289: Client <unknown> disconnected due to protocol error.
+1764515354: New connection from 172.18.0.4:56848 on port 1883.
+1764515354: New client connected from 172.18.0.4:56848 as SemaforoAyL-publisher (p2, c1, k60).
+1764515354: Client SemaforoAyL-publisher disconnected.
+1764515680: New connection from ::1:54566 on port 1883.
+1764515680: New client connected from ::1:54566 as auto-25318C0F-E479-79D6-233C-D15DA40F58CB (p2, c1, k60).
+1764516054: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764516418: New connection from 172.18.0.4:59818 on port 1883.
+1764516419: New client connected from 172.18.0.4:59818 as SemaforoAyL-publisher (p2, c1, k60).
+1764516419: Client SemaforoAyL-publisher disconnected.
+1764516586: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764516590: New connection from 172.18.0.1:40502 on port 1883.
+1764516590: New client connected from 172.18.0.1:40502 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764516784: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764516789: New connection from 172.18.0.1:44538 on port 1883.
+1764516789: New client connected from 172.18.0.1:44538 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764517197: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764517197: New connection from 172.18.0.1:52628 on port 1883.
+1764517197: New client connected from 172.18.0.1:52628 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764517244: New connection from 172.18.0.4:42342 on port 1883.
+1764517244: New client connected from 172.18.0.4:42342 as SemaforoAyL-publisher (p2, c1, k60).
+1764517244: Client SemaforoAyL-publisher disconnected.
+1764517855: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764518053: Client SemaforoAyL-subscriber closed its connection.
+1764518053: mosquitto version 2.0.22 terminating
+1764518053: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764518088: mosquitto version 2.0.22 starting
+1764518088: Config loaded from /mosquitto/config/mosquitto.conf.
+1764518088: Opening ipv4 listen socket on port 1883.
+1764518088: Opening ipv6 listen socket on port 1883.
+1764518088: Opening websockets listen socket on port 9001.
+1764518088: mosquitto version 2.0.22 running
+1764518089: New connection from 172.18.0.1:42154 on port 1883.
+1764518089: New client connected from 172.18.0.1:42154 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764518089: New connection from 172.18.0.1:55092 on port 1883.
+1764518089: Client ESP32_TL_001_885721B17478 already connected, closing old connection.
+1764518089: New client connected from 172.18.0.1:55092 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764518089: Client ESP32_TL_001_885721B17478 closed its connection.
+1764518089: New connection from 172.18.0.1:42156 on port 1883.
+1764518089: New client connected from 172.18.0.1:42156 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764518091: New connection from 172.18.0.4:59642 on port 1883.
+1764518091: New client connected from 172.18.0.4:59642 as SemaforoAyL-subscriber (p2, c0, k60).
+1764518091: New connection from 172.18.0.4:59654 on port 1883.
+1764518092: New client connected from 172.18.0.4:59654 as SemaforoAyL-publisher (p2, c1, k60).
+1764518092: Client SemaforoAyL-publisher disconnected.
+1764518193: New connection from 172.18.0.1:55650 on port 1883.
+1764518193: Client ESP32_TL_001_885721B17478 already connected, closing old connection.
+1764518193: New client connected from 172.18.0.1:55650 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764518225: New connection from 172.18.0.4:40308 on port 1883.
+1764518225: New client connected from 172.18.0.4:40308 as SemaforoAyL-publisher (p2, c1, k60).
+1764518225: Client SemaforoAyL-publisher disconnected.
+1764518267: Client SemaforoAyL-subscriber closed its connection.
+1764518267: mosquitto version 2.0.22 terminating
+1764518267: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764518324: mosquitto version 2.0.22 starting
+1764518324: Config loaded from /mosquitto/config/mosquitto.conf.
+1764518324: Opening ipv4 listen socket on port 1883.
+1764518324: Opening ipv6 listen socket on port 1883.
+1764518324: Opening websockets listen socket on port 9001.
+1764518324: mosquitto version 2.0.22 running
+1764518327: New connection from 172.18.0.4:38548 on port 1883.
+1764518328: New connection from 172.18.0.1:47622 on port 1883.
+1764518328: New client connected from 172.18.0.1:47622 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764518328: New client connected from 172.18.0.4:38548 as SemaforoAyL-subscriber (p2, c0, k60).
+1764518328: New connection from 172.18.0.4:38564 on port 1883.
+1764518328: New client connected from 172.18.0.4:38564 as SemaforoAyL-publisher (p2, c1, k60).
+1764518328: Client SemaforoAyL-publisher disconnected.
+1764518336: New connection from 172.18.0.1:34100 on port 1883.
+1764518336: Client ESP32_TL_001_885721B17478 already connected, closing old connection.
+1764518336: New client connected from 172.18.0.1:34100 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764518336: Client ESP32_TL_001_885721B17478 closed its connection.
+1764518336: New connection from 172.18.0.1:47634 on port 1883.
+1764518336: New client connected from 172.18.0.1:47634 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764518343: New connection from 172.18.0.4:49050 on port 1883.
+1764518343: New client connected from 172.18.0.4:49050 as SemaforoAyL-publisher (p2, c1, k60).
+1764518343: Client SemaforoAyL-publisher disconnected.
+1764518358: New connection from 172.18.0.1:46856 on port 1883.
+1764518358: Client ESP32_TL_001_885721B17478 already connected, closing old connection.
+1764518358: New client connected from 172.18.0.1:46856 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764518380: New connection from 172.18.0.4:48234 on port 1883.
+1764518380: New client connected from 172.18.0.4:48234 as SemaforoAyL-publisher (p2, c1, k60).
+1764518380: Client SemaforoAyL-publisher disconnected.
+1764518502: New connection from 172.18.0.4:33298 on port 1883.
+1764518503: New client connected from 172.18.0.4:33298 as SemaforoAyL-publisher (p2, c1, k60).
+1764518503: Client SemaforoAyL-publisher disconnected.
+1764518556: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764943764: mosquitto version 2.0.22 starting
+1764943764: Config loaded from /mosquitto/config/mosquitto.conf.
+1764943764: Opening ipv4 listen socket on port 1883.
+1764943764: Opening ipv6 listen socket on port 1883.
+1764943764: Opening websockets listen socket on port 9001.
+1764943764: mosquitto version 2.0.22 running
+1764943767: New connection from 172.18.0.2:58172 on port 1883.
+1764943768: New client connected from 172.18.0.2:58172 as SemaforoAyL-subscriber (p2, c0, k60).
+1764943768: New connection from 172.18.0.2:58176 on port 1883.
+1764943768: New client connected from 172.18.0.2:58176 as SemaforoAyL-publisher (p2, c1, k60).
+1764943768: Client SemaforoAyL-publisher disconnected.
+1764943771: Client SemaforoAyL-subscriber closed its connection.
+1764943771: mosquitto version 2.0.22 terminating
+1764943771: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764943790: mosquitto version 2.0.22 starting
+1764943790: Config loaded from /mosquitto/config/mosquitto.conf.
+1764943790: Opening ipv4 listen socket on port 1883.
+1764943790: Opening ipv6 listen socket on port 1883.
+1764943790: Opening websockets listen socket on port 9001.
+1764943790: mosquitto version 2.0.22 running
+1764943792: New connection from 172.18.0.4:53570 on port 1883.
+1764943793: New client connected from 172.18.0.4:53570 as SemaforoAyL-subscriber (p2, c0, k60).
+1764943793: New connection from 172.18.0.4:53572 on port 1883.
+1764943793: New client connected from 172.18.0.4:53572 as SemaforoAyL-publisher (p2, c1, k60).
+1764943793: Client SemaforoAyL-publisher disconnected.
+1764943805: New connection from 172.18.0.4:56604 on port 1883.
+1764943805: New connection from 172.18.0.4:56618 on port 1883.
+1764943806: New client connected from 172.18.0.4:56604 as SemaforoAyL-publisher (p2, c1, k60).
+1764943806: Client SemaforoAyL-publisher disconnected.
+1764943806: New client connected from 172.18.0.4:56618 as SemaforoAyL-publisher (p2, c1, k60).
+1764943806: Client SemaforoAyL-publisher disconnected.
+1764944331: Client SemaforoAyL-subscriber closed its connection.
+1764944331: mosquitto version 2.0.22 terminating
+1764944331: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764944348: mosquitto version 2.0.22 starting
+1764944348: Config loaded from /mosquitto/config/mosquitto.conf.
+1764944348: Opening ipv4 listen socket on port 1883.
+1764944348: Opening ipv6 listen socket on port 1883.
+1764944348: Opening websockets listen socket on port 9001.
+1764944348: mosquitto version 2.0.22 running
+1764944351: New connection from 172.18.0.4:58740 on port 1883.
+1764944351: New client connected from 172.18.0.4:58740 as SemaforoAyL-subscriber (p2, c0, k60).
+1764944351: New connection from 172.18.0.4:58752 on port 1883.
+1764944351: New client connected from 172.18.0.4:58752 as SemaforoAyL-publisher (p2, c1, k60).
+1764944351: Client SemaforoAyL-publisher disconnected.
+1764945020: Client SemaforoAyL-subscriber closed its connection.
+1764945020: mosquitto version 2.0.22 terminating
+1764945020: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764945033: mosquitto version 2.0.22 starting
+1764945033: Config loaded from /mosquitto/config/mosquitto.conf.
+1764945033: Opening ipv4 listen socket on port 1883.
+1764945033: Opening ipv6 listen socket on port 1883.
+1764945033: Opening websockets listen socket on port 9001.
+1764945033: mosquitto version 2.0.22 running
+1764945036: New connection from 172.18.0.4:60348 on port 1883.
+1764945036: New client connected from 172.18.0.4:60348 as SemaforoAyL-subscriber (p2, c0, k60).
+1764945036: New connection from 172.18.0.4:60350 on port 1883.
+1764945036: New client connected from 172.18.0.4:60350 as SemaforoAyL-publisher (p2, c1, k60).
+1764945036: Client SemaforoAyL-publisher disconnected.
+1764945866: mosquitto version 2.0.22 starting
+1764945866: Config loaded from /mosquitto/config/mosquitto.conf.
+1764945866: Opening ipv4 listen socket on port 1883.
+1764945866: Opening ipv6 listen socket on port 1883.
+1764945866: Opening websockets listen socket on port 9001.
+1764945866: mosquitto version 2.0.22 running
+1764945870: New connection from 172.18.0.4:35828 on port 1883.
+1764945870: New client connected from 172.18.0.4:35828 as SemaforoAyL-subscriber (p2, c0, k60).
+1764945870: New connection from 172.18.0.4:35320 on port 1883.
+1764945871: New client connected from 172.18.0.4:35320 as SemaforoAyL-publisher (p2, c1, k60).
+1764945871: Client SemaforoAyL-publisher disconnected.
+1764946078: New connection from 172.18.0.1:43506 on port 1883.
+1764946079: New client connected from 172.18.0.1:43506 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764946143: New connection from 172.18.0.4:60454 on port 1883.
+1764946144: New client connected from 172.18.0.4:60454 as SemaforoAyL-publisher (p2, c1, k60).
+1764946144: Client SemaforoAyL-publisher disconnected.
+1764946173: New connection from 172.18.0.4:43408 on port 1883.
+1764946173: New client connected from 172.18.0.4:43408 as SemaforoAyL-publisher (p2, c1, k60).
+1764946173: Client SemaforoAyL-publisher disconnected.
+1764946176: New connection from 172.18.0.4:43424 on port 1883.
+1764946176: New client connected from 172.18.0.4:43424 as SemaforoAyL-publisher (p2, c1, k60).
+1764946176: Client SemaforoAyL-publisher disconnected.
+1764946192: New connection from 172.18.0.4:34158 on port 1883.
+1764946192: New client connected from 172.18.0.4:34158 as SemaforoAyL-publisher (p2, c1, k60).
+1764946192: Client SemaforoAyL-publisher disconnected.
+1764946198: New connection from 172.18.0.4:34164 on port 1883.
+1764946198: New client connected from 172.18.0.4:34164 as SemaforoAyL-publisher (p2, c1, k60).
+1764946198: Client SemaforoAyL-publisher disconnected.
+1764946204: New connection from 172.18.0.4:58552 on port 1883.
+1764946204: New client connected from 172.18.0.4:58552 as SemaforoAyL-publisher (p2, c1, k60).
+1764946204: Client SemaforoAyL-publisher disconnected.
+1764946207: New connection from 172.18.0.4:58562 on port 1883.
+1764946207: New client connected from 172.18.0.4:58562 as SemaforoAyL-publisher (p2, c1, k60).
+1764946207: Client SemaforoAyL-publisher disconnected.
+1764946238: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764947128: New connection from 172.18.0.1:51736 on port 1883.
+1764947128: Client <unknown> disconnected due to protocol error.
+1764947129: New connection from 172.18.0.1:51752 on port 1883.
+1764947129: Client <unknown> disconnected due to protocol error.
+1764947134: New connection from 172.18.0.1:41990 on port 1883.
+1764947134: Client <unknown> disconnected due to protocol error.
+1764947183: Client SemaforoAyL-subscriber closed its connection.
+1764947184: mosquitto version 2.0.22 terminating
+1764947184: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764947197: mosquitto version 2.0.22 starting
+1764947197: Config loaded from /mosquitto/config/mosquitto.conf.
+1764947197: Opening ipv4 listen socket on port 1883.
+1764947197: Opening ipv6 listen socket on port 1883.
+1764947197: Opening websockets listen socket on port 9001.
+1764947197: mosquitto version 2.0.22 running
+1764947200: New connection from 172.18.0.4:51112 on port 1883.
+1764947200: New client connected from 172.18.0.4:51112 as SemaforoAyL-subscriber (p2, c0, k60).
+1764947200: New connection from 172.18.0.4:51120 on port 1883.
+1764947201: New client connected from 172.18.0.4:51120 as SemaforoAyL-publisher (p2, c1, k60).
+1764947201: Client SemaforoAyL-publisher disconnected.
+1764947415: New connection from 172.18.0.4:33502 on port 1883.
+1764947416: New client connected from 172.18.0.4:33502 as SemaforoAyL-publisher (p2, c1, k60).
+1764947416: Client SemaforoAyL-publisher disconnected.
+1764947442: New connection from 172.18.0.1:39518 on port 1883.
+1764947442: New client connected from 172.18.0.1:39518 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764947452: New connection from 172.18.0.4:53122 on port 1883.
+1764947452: New client connected from 172.18.0.4:53122 as SemaforoAyL-publisher (p2, c1, k60).
+1764947452: Client SemaforoAyL-publisher disconnected.
+1764947457: New connection from 172.18.0.4:53136 on port 1883.
+1764947457: New client connected from 172.18.0.4:53136 as SemaforoAyL-publisher (p2, c1, k60).
+1764947457: Client SemaforoAyL-publisher disconnected.
+1764947505: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764947511: New connection from 172.18.0.1:43412 on port 1883.
+1764947511: New client connected from 172.18.0.1:43412 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764947525: New connection from 172.18.0.4:34852 on port 1883.
+1764947525: New client connected from 172.18.0.4:34852 as SemaforoAyL-publisher (p2, c1, k60).
+1764947525: Client SemaforoAyL-publisher disconnected.
+1764947528: New connection from 172.18.0.4:34856 on port 1883.
+1764947529: New client connected from 172.18.0.4:34856 as SemaforoAyL-publisher (p2, c1, k60).
+1764947529: Client SemaforoAyL-publisher disconnected.
+1764947554: New connection from 172.18.0.4:33720 on port 1883.
+1764947555: New client connected from 172.18.0.4:33720 as SemaforoAyL-publisher (p2, c1, k60).
+1764947555: Client SemaforoAyL-publisher disconnected.
+1764947564: New connection from 172.18.0.4:40544 on port 1883.
+1764947564: New client connected from 172.18.0.4:40544 as SemaforoAyL-publisher (p2, c1, k60).
+1764947564: Client SemaforoAyL-publisher disconnected.
+1764947580: New connection from 172.18.0.4:45562 on port 1883.
+1764947580: New client connected from 172.18.0.4:45562 as SemaforoAyL-publisher (p2, c1, k60).
+1764947580: Client SemaforoAyL-publisher disconnected.
+1764948997: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764949722: New connection from 172.18.0.4:35538 on port 1883.
+1764949722: New client connected from 172.18.0.4:35538 as SemaforoAyL-publisher (p2, c1, k60).
+1764949722: Client SemaforoAyL-publisher disconnected.
+1764949731: New connection from 172.18.0.4:59718 on port 1883.
+1764949731: New client connected from 172.18.0.4:59718 as SemaforoAyL-publisher (p2, c1, k60).
+1764949731: Client SemaforoAyL-publisher disconnected.
+1764949734: New connection from 172.18.0.4:59728 on port 1883.
+1764949734: New client connected from 172.18.0.4:59728 as SemaforoAyL-publisher (p2, c1, k60).
+1764949734: Client SemaforoAyL-publisher disconnected.
+1764949742: New connection from 172.18.0.4:44384 on port 1883.
+1764949743: New client connected from 172.18.0.4:44384 as SemaforoAyL-publisher (p2, c1, k60).
+1764949743: Client SemaforoAyL-publisher disconnected.
+1764950089: Client SemaforoAyL-subscriber closed its connection.
+1764950090: mosquitto version 2.0.22 terminating
+1764950090: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764950101: mosquitto version 2.0.22 starting
+1764950101: Config loaded from /mosquitto/config/mosquitto.conf.
+1764950101: Opening ipv4 listen socket on port 1883.
+1764950101: Opening ipv6 listen socket on port 1883.
+1764950101: Opening websockets listen socket on port 9001.
+1764950101: mosquitto version 2.0.22 running
+1764950101: New connection from 172.18.0.1:51016 on port 1883.
+1764950101: New client connected from 172.18.0.1:51016 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764950101: Client ESP32_TL_001_885721B17478 closed its connection.
+1764950105: New connection from 172.18.0.4:50436 on port 1883.
+1764950105: New client connected from 172.18.0.4:50436 as SemaforoAyL-subscriber (p2, c0, k60).
+1764950105: New connection from 172.18.0.4:50440 on port 1883.
+1764950105: New client connected from 172.18.0.4:50440 as SemaforoAyL-publisher (p2, c1, k60).
+1764950105: Client SemaforoAyL-publisher disconnected.
+1764950109: New connection from 172.18.0.1:35088 on port 1883.
+1764950109: New client connected from 172.18.0.1:35088 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764950143: New connection from 172.18.0.4:43288 on port 1883.
+1764950143: New client connected from 172.18.0.4:43288 as SemaforoAyL-publisher (p2, c1, k60).
+1764950143: Client SemaforoAyL-publisher disconnected.
+1764950150: New connection from 172.18.0.4:43290 on port 1883.
+1764950150: New client connected from 172.18.0.4:43290 as SemaforoAyL-publisher (p2, c1, k60).
+1764950150: Client SemaforoAyL-publisher disconnected.
+1764950155: New connection from 172.18.0.4:36392 on port 1883.
+1764950155: New client connected from 172.18.0.4:36392 as SemaforoAyL-publisher (p2, c1, k60).
+1764950155: Client SemaforoAyL-publisher disconnected.
+1764950202: New connection from 172.18.0.4:38762 on port 1883.
+1764950202: New client connected from 172.18.0.4:38762 as SemaforoAyL-publisher (p2, c1, k60).
+1764950202: Client SemaforoAyL-publisher disconnected.
+1764950687: Client SemaforoAyL-subscriber closed its connection.
+1764950687: mosquitto version 2.0.22 terminating
+1764950687: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764950695: mosquitto version 2.0.22 starting
+1764950695: Config loaded from /mosquitto/config/mosquitto.conf.
+1764950695: Opening ipv4 listen socket on port 1883.
+1764950695: Opening ipv6 listen socket on port 1883.
+1764950695: Opening websockets listen socket on port 9001.
+1764950695: mosquitto version 2.0.22 running
+1764950698: New connection from 172.18.0.4:35840 on port 1883.
+1764950699: New client connected from 172.18.0.4:35840 as SemaforoAyL-subscriber (p2, c0, k60).
+1764950699: New connection from 172.18.0.4:35850 on port 1883.
+1764950699: New client connected from 172.18.0.4:35850 as SemaforoAyL-publisher (p2, c1, k60).
+1764950699: Client SemaforoAyL-publisher disconnected.
+1764950703: New connection from 172.18.0.1:42372 on port 1883.
+1764950703: New client connected from 172.18.0.1:42372 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764950799: New connection from 172.18.0.4:39438 on port 1883.
+1764950799: New client connected from 172.18.0.4:39438 as SemaforoAyL-publisher (p2, c1, k60).
+1764950799: Client SemaforoAyL-publisher disconnected.
+1764950805: New connection from 172.18.0.4:40188 on port 1883.
+1764950805: New client connected from 172.18.0.4:40188 as SemaforoAyL-publisher (p2, c1, k60).
+1764950805: Client SemaforoAyL-publisher disconnected.
+1764950808: New connection from 172.18.0.4:40204 on port 1883.
+1764950808: New client connected from 172.18.0.4:40204 as SemaforoAyL-publisher (p2, c1, k60).
+1764950808: Client SemaforoAyL-publisher disconnected.
+1764950812: New connection from 172.18.0.4:51950 on port 1883.
+1764950812: New client connected from 172.18.0.4:51950 as SemaforoAyL-publisher (p2, c1, k60).
+1764950812: Client SemaforoAyL-publisher disconnected.
+1764951364: Client SemaforoAyL-subscriber closed its connection.
+1764951365: mosquitto version 2.0.22 terminating
+1764951365: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764951372: mosquitto version 2.0.22 starting
+1764951372: Config loaded from /mosquitto/config/mosquitto.conf.
+1764951372: Opening ipv4 listen socket on port 1883.
+1764951372: Opening ipv6 listen socket on port 1883.
+1764951372: Opening websockets listen socket on port 9001.
+1764951372: mosquitto version 2.0.22 running
+1764951376: New connection from 172.18.0.4:34244 on port 1883.
+1764951376: New client connected from 172.18.0.4:34244 as SemaforoAyL-subscriber (p2, c0, k60).
+1764951376: New connection from 172.18.0.4:34256 on port 1883.
+1764951377: New client connected from 172.18.0.4:34256 as SemaforoAyL-publisher (p2, c1, k60).
+1764951377: Client SemaforoAyL-publisher disconnected.
+1764951381: New connection from 172.18.0.1:34972 on port 1883.
+1764951381: New client connected from 172.18.0.1:34972 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764951521: Client SemaforoAyL-subscriber closed its connection.
+1764951521: mosquitto version 2.0.22 terminating
+1764951521: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764951529: mosquitto version 2.0.22 starting
+1764951529: Config loaded from /mosquitto/config/mosquitto.conf.
+1764951529: Opening ipv4 listen socket on port 1883.
+1764951529: Opening ipv6 listen socket on port 1883.
+1764951529: Opening websockets listen socket on port 9001.
+1764951529: mosquitto version 2.0.22 running
+1764951532: New connection from 172.18.0.4:35696 on port 1883.
+1764951533: New client connected from 172.18.0.4:35696 as SemaforoAyL-subscriber (p2, c0, k60).
+1764951533: New connection from 172.18.0.4:35708 on port 1883.
+1764951533: New client connected from 172.18.0.4:35708 as SemaforoAyL-publisher (p2, c1, k60).
+1764951533: Client SemaforoAyL-publisher disconnected.
+1764951538: New connection from 172.18.0.1:37584 on port 1883.
+1764951538: New client connected from 172.18.0.1:37584 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764951824: Client SemaforoAyL-subscriber closed its connection.
+1764951825: mosquitto version 2.0.22 terminating
+1764951825: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764951831: mosquitto version 2.0.22 starting
+1764951831: Config loaded from /mosquitto/config/mosquitto.conf.
+1764951831: Opening ipv4 listen socket on port 1883.
+1764951831: Opening ipv6 listen socket on port 1883.
+1764951831: Opening websockets listen socket on port 9001.
+1764951831: mosquitto version 2.0.22 running
+1764951832: New connection from 172.18.0.1:59628 on port 1883.
+1764951832: New client connected from 172.18.0.1:59628 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764951834: New connection from 172.18.0.4:36882 on port 1883.
+1764951834: New client connected from 172.18.0.4:36882 as SemaforoAyL-subscriber (p2, c0, k60).
+1764951834: New connection from 172.18.0.4:36890 on port 1883.
+1764951834: New client connected from 172.18.0.4:36890 as SemaforoAyL-publisher (p2, c1, k60).
+1764951834: Client SemaforoAyL-publisher disconnected.
+1764951907: New connection from 172.18.0.4:42558 on port 1883.
+1764951907: New client connected from 172.18.0.4:42558 as SemaforoAyL-publisher (p2, c1, k60).
+1764951907: Client SemaforoAyL-publisher disconnected.
+1764951924: New connection from 172.18.0.4:46090 on port 1883.
+1764951925: New client connected from 172.18.0.4:46090 as SemaforoAyL-publisher (p2, c1, k60).
+1764951925: Client SemaforoAyL-publisher disconnected.
+1764951928: New connection from 172.18.0.4:46098 on port 1883.
+1764951929: New client connected from 172.18.0.4:46098 as SemaforoAyL-publisher (p2, c1, k60).
+1764951929: Client SemaforoAyL-publisher disconnected.
+1764951935: New connection from 172.18.0.4:52290 on port 1883.
+1764951936: New client connected from 172.18.0.4:52290 as SemaforoAyL-publisher (p2, c1, k60).
+1764951936: Client SemaforoAyL-publisher disconnected.
+1764951937: New connection from 172.18.0.4:52304 on port 1883.
+1764951938: New client connected from 172.18.0.4:52304 as SemaforoAyL-publisher (p2, c1, k60).
+1764951938: Client SemaforoAyL-publisher disconnected.
+1764952195: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764952199: New connection from 172.18.0.1:46430 on port 1883.
+1764952199: New client connected from 172.18.0.1:46430 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764952207: New connection from 172.18.0.4:45738 on port 1883.
+1764952207: New client connected from 172.18.0.4:45738 as SemaforoAyL-publisher (p2, c1, k60).
+1764952207: Client SemaforoAyL-publisher disconnected.
+1764952811: New connection from 172.18.0.4:58154 on port 1883.
+1764952812: New client connected from 172.18.0.4:58154 as SemaforoAyL-publisher (p2, c1, k60).
+1764952812: Client SemaforoAyL-publisher disconnected.
+1764953070: Client SemaforoAyL-subscriber closed its connection.
+1764953071: mosquitto version 2.0.22 terminating
+1764953071: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764953078: mosquitto version 2.0.22 starting
+1764953078: Config loaded from /mosquitto/config/mosquitto.conf.
+1764953078: Opening ipv4 listen socket on port 1883.
+1764953078: Opening ipv6 listen socket on port 1883.
+1764953078: Opening websockets listen socket on port 9001.
+1764953078: mosquitto version 2.0.22 running
+1764953081: New connection from 172.18.0.4:51792 on port 1883.
+1764953082: New client connected from 172.18.0.4:51792 as SemaforoAyL-subscriber (p2, c0, k60).
+1764953082: New connection from 172.18.0.4:51806 on port 1883.
+1764953082: New client connected from 172.18.0.4:51806 as SemaforoAyL-publisher (p2, c1, k60).
+1764953082: Client SemaforoAyL-publisher disconnected.
+1764953087: New connection from 172.18.0.1:48364 on port 1883.
+1764953087: New client connected from 172.18.0.1:48364 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764953122: New connection from 172.18.0.4:60230 on port 1883.
+1764953122: New client connected from 172.18.0.4:60230 as SemaforoAyL-publisher (p2, c1, k60).
+1764953122: Client SemaforoAyL-publisher disconnected.
+1764953128: New connection from 172.18.0.4:60246 on port 1883.
+1764953129: New client connected from 172.18.0.4:60246 as SemaforoAyL-publisher (p2, c1, k60).
+1764953129: Client SemaforoAyL-publisher disconnected.
+1764953129: New connection from 172.18.0.4:60248 on port 1883.
+1764953129: New client connected from 172.18.0.4:60248 as SemaforoAyL-publisher (p2, c1, k60).
+1764953129: Client SemaforoAyL-publisher disconnected.
+1764953131: New connection from 172.18.0.4:50996 on port 1883.
+1764953132: New client connected from 172.18.0.4:50996 as SemaforoAyL-publisher (p2, c1, k60).
+1764953132: Client SemaforoAyL-publisher disconnected.
+1764953414: Client SemaforoAyL-subscriber closed its connection.
+1764953414: mosquitto version 2.0.22 terminating
+1764953414: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764953422: mosquitto version 2.0.22 starting
+1764953422: Config loaded from /mosquitto/config/mosquitto.conf.
+1764953422: Opening ipv4 listen socket on port 1883.
+1764953422: Opening ipv6 listen socket on port 1883.
+1764953422: Opening websockets listen socket on port 9001.
+1764953422: mosquitto version 2.0.22 running
+1764953425: New connection from 172.18.0.4:48520 on port 1883.
+1764953425: New client connected from 172.18.0.4:48520 as SemaforoAyL-subscriber (p2, c0, k60).
+1764953425: New connection from 172.18.0.4:48536 on port 1883.
+1764953425: New client connected from 172.18.0.4:48536 as SemaforoAyL-publisher (p2, c1, k60).
+1764953425: Client SemaforoAyL-publisher disconnected.
+1764953427: New connection from 172.18.0.1:43168 on port 1883.
+1764953427: New client connected from 172.18.0.1:43168 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764953731: Client SemaforoAyL-subscriber closed its connection.
+1764953732: mosquitto version 2.0.22 terminating
+1764953732: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764953739: mosquitto version 2.0.22 starting
+1764953739: Config loaded from /mosquitto/config/mosquitto.conf.
+1764953739: Opening ipv4 listen socket on port 1883.
+1764953739: Opening ipv6 listen socket on port 1883.
+1764953739: Opening websockets listen socket on port 9001.
+1764953739: mosquitto version 2.0.22 running
+1764953742: New connection from 172.18.0.4:37056 on port 1883.
+1764953742: New client connected from 172.18.0.4:37056 as SemaforoAyL-subscriber (p2, c0, k60).
+1764953742: New connection from 172.18.0.4:37060 on port 1883.
+1764953743: New client connected from 172.18.0.4:37060 as SemaforoAyL-publisher (p2, c1, k60).
+1764953743: Client SemaforoAyL-publisher disconnected.
+1764953748: New connection from 172.18.0.1:47468 on port 1883.
+1764953748: New client connected from 172.18.0.1:47468 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764953808: New connection from 172.18.0.4:36364 on port 1883.
+1764953809: New client connected from 172.18.0.4:36364 as SemaforoAyL-publisher (p2, c1, k60).
+1764953809: Client SemaforoAyL-publisher disconnected.
+1764953809: New connection from 172.18.0.4:36374 on port 1883.
+1764953809: New client connected from 172.18.0.4:36374 as SemaforoAyL-publisher (p2, c1, k60).
+1764953809: Client SemaforoAyL-publisher disconnected.
+1764953843: New connection from 172.18.0.4:47244 on port 1883.
+1764953843: New client connected from 172.18.0.4:47244 as SemaforoAyL-publisher (p2, c1, k60).
+1764953843: Client SemaforoAyL-publisher disconnected.
+1764954089: Client SemaforoAyL-subscriber closed its connection.
+1764954090: mosquitto version 2.0.22 terminating
+1764954090: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764954097: mosquitto version 2.0.22 starting
+1764954097: Config loaded from /mosquitto/config/mosquitto.conf.
+1764954097: Opening ipv4 listen socket on port 1883.
+1764954097: Opening ipv6 listen socket on port 1883.
+1764954097: Opening websockets listen socket on port 9001.
+1764954097: mosquitto version 2.0.22 running
+1764954100: New connection from 172.18.0.4:41390 on port 1883.
+1764954100: New client connected from 172.18.0.4:41390 as SemaforoAyL-subscriber (p2, c0, k60).
+1764954100: New connection from 172.18.0.4:41406 on port 1883.
+1764954101: New client connected from 172.18.0.4:41406 as SemaforoAyL-publisher (p2, c1, k60).
+1764954101: Client SemaforoAyL-publisher disconnected.
+1764954106: New connection from 172.18.0.1:37104 on port 1883.
+1764954106: New client connected from 172.18.0.1:37104 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764954120: New connection from 172.18.0.4:35584 on port 1883.
+1764954120: New client connected from 172.18.0.4:35584 as SemaforoAyL-publisher (p2, c1, k60).
+1764954120: Client SemaforoAyL-publisher disconnected.
+1764954130: New connection from 172.18.0.4:56938 on port 1883.
+1764954130: New client connected from 172.18.0.4:56938 as SemaforoAyL-publisher (p2, c1, k60).
+1764954130: Client SemaforoAyL-publisher disconnected.
+1764954131: New connection from 172.18.0.4:56942 on port 1883.
+1764954131: New client connected from 172.18.0.4:56942 as SemaforoAyL-publisher (p2, c1, k60).
+1764954131: Client SemaforoAyL-publisher disconnected.
+1764954138: New connection from 172.18.0.4:56958 on port 1883.
+1764954138: New client connected from 172.18.0.4:56958 as SemaforoAyL-publisher (p2, c1, k60).
+1764954138: Client SemaforoAyL-publisher disconnected.
+1764954141: New connection from 172.18.0.4:33588 on port 1883.
+1764954142: New client connected from 172.18.0.4:33588 as SemaforoAyL-publisher (p2, c1, k60).
+1764954142: Client SemaforoAyL-publisher disconnected.
+1764954142: New connection from 172.18.0.4:33592 on port 1883.
+1764954142: New client connected from 172.18.0.4:33592 as SemaforoAyL-publisher (p2, c1, k60).
+1764954142: Client SemaforoAyL-publisher disconnected.
+1764954143: New connection from 172.18.0.4:33608 on port 1883.
+1764954143: New client connected from 172.18.0.4:33608 as SemaforoAyL-publisher (p2, c1, k60).
+1764954143: Client SemaforoAyL-publisher disconnected.
+1764954150: New connection from 172.18.0.4:38424 on port 1883.
+1764954150: New client connected from 172.18.0.4:38424 as SemaforoAyL-publisher (p2, c1, k60).
+1764954150: Client SemaforoAyL-publisher disconnected.
+1764954152: New connection from 172.18.0.4:38434 on port 1883.
+1764954152: New client connected from 172.18.0.4:38434 as SemaforoAyL-publisher (p2, c1, k60).
+1764954152: Client SemaforoAyL-publisher disconnected.
+1764954153: New connection from 172.18.0.4:38444 on port 1883.
+1764954154: New client connected from 172.18.0.4:38444 as SemaforoAyL-publisher (p2, c1, k60).
+1764954154: Client SemaforoAyL-publisher disconnected.
+1764954156: New connection from 172.18.0.4:38454 on port 1883.
+1764954156: New client connected from 172.18.0.4:38454 as SemaforoAyL-publisher (p2, c1, k60).
+1764954156: Client SemaforoAyL-publisher disconnected.
+1764954181: New connection from 172.18.0.4:48894 on port 1883.
+1764954181: New client connected from 172.18.0.4:48894 as SemaforoAyL-publisher (p2, c1, k60).
+1764954181: Client SemaforoAyL-publisher disconnected.
+1764954192: New connection from 172.18.0.4:47472 on port 1883.
+1764954193: New client connected from 172.18.0.4:47472 as SemaforoAyL-publisher (p2, c1, k60).
+1764954193: Client SemaforoAyL-publisher disconnected.
+1764955897: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764956525: Client SemaforoAyL-subscriber closed its connection.
+1764956526: mosquitto version 2.0.22 terminating
+1764956526: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764956534: mosquitto version 2.0.22 starting
+1764956534: Config loaded from /mosquitto/config/mosquitto.conf.
+1764956534: Opening ipv4 listen socket on port 1883.
+1764956534: Opening ipv6 listen socket on port 1883.
+1764956534: Opening websockets listen socket on port 9001.
+1764956534: mosquitto version 2.0.22 running
+1764956537: New connection from 172.18.0.4:45416 on port 1883.
+1764956538: New client connected from 172.18.0.4:45416 as SemaforoAyL-subscriber (p2, c0, k60).
+1764956538: New connection from 172.18.0.4:45418 on port 1883.
+1764956538: New client connected from 172.18.0.4:45418 as SemaforoAyL-publisher (p2, c1, k60).
+1764956538: Client SemaforoAyL-publisher disconnected.
+1764956542: New connection from 172.18.0.1:33616 on port 1883.
+1764956542: New client connected from 172.18.0.1:33616 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764956601: New connection from 172.18.0.4:59288 on port 1883.
+1764956601: New client connected from 172.18.0.4:59288 as SemaforoAyL-publisher (p2, c1, k60).
+1764956601: Client SemaforoAyL-publisher disconnected.
+1764956607: New connection from 172.18.0.4:59304 on port 1883.
+1764956608: New client connected from 172.18.0.4:59304 as SemaforoAyL-publisher (p2, c1, k60).
+1764956608: Client SemaforoAyL-publisher disconnected.
+1764956610: New connection from 172.18.0.4:42814 on port 1883.
+1764956610: New client connected from 172.18.0.4:42814 as SemaforoAyL-publisher (p2, c1, k60).
+1764956610: Client SemaforoAyL-publisher disconnected.
+1764957149: Client SemaforoAyL-subscriber closed its connection.
+1764957150: mosquitto version 2.0.22 terminating
+1764957150: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764957158: mosquitto version 2.0.22 starting
+1764957158: Config loaded from /mosquitto/config/mosquitto.conf.
+1764957158: Opening ipv4 listen socket on port 1883.
+1764957158: Opening ipv6 listen socket on port 1883.
+1764957158: Opening websockets listen socket on port 9001.
+1764957158: mosquitto version 2.0.22 running
+1764957161: New connection from 172.18.0.4:37276 on port 1883.
+1764957161: New client connected from 172.18.0.4:37276 as SemaforoAyL-subscriber (p2, c0, k60).
+1764957161: New connection from 172.18.0.4:37282 on port 1883.
+1764957161: New client connected from 172.18.0.4:37282 as SemaforoAyL-publisher (p2, c1, k60).
+1764957161: Client SemaforoAyL-publisher disconnected.
+1764957166: New connection from 172.18.0.1:49394 on port 1883.
+1764957166: New client connected from 172.18.0.1:49394 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764957182: New connection from 172.18.0.4:59382 on port 1883.
+1764957183: New client connected from 172.18.0.4:59382 as SemaforoAyL-publisher (p2, c1, k60).
+1764957183: Client SemaforoAyL-publisher disconnected.
+1764957189: New connection from 172.18.0.4:59392 on port 1883.
+1764957190: New client connected from 172.18.0.4:59392 as SemaforoAyL-publisher (p2, c1, k60).
+1764957190: Client SemaforoAyL-publisher disconnected.
+1764957935: Client SemaforoAyL-subscriber closed its connection.
+1764957935: mosquitto version 2.0.22 terminating
+1764957935: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764957943: mosquitto version 2.0.22 starting
+1764957943: Config loaded from /mosquitto/config/mosquitto.conf.
+1764957943: Opening ipv4 listen socket on port 1883.
+1764957943: Opening ipv6 listen socket on port 1883.
+1764957943: Opening websockets listen socket on port 9001.
+1764957943: mosquitto version 2.0.22 running
+1764957947: New connection from 172.18.0.4:43232 on port 1883.
+1764957947: New client connected from 172.18.0.4:43232 as SemaforoAyL-subscriber (p2, c0, k60).
+1764957947: New connection from 172.18.0.4:43246 on port 1883.
+1764957947: New client connected from 172.18.0.4:43246 as SemaforoAyL-publisher (p2, c1, k60).
+1764957947: Client SemaforoAyL-publisher disconnected.
+1764957952: New connection from 172.18.0.1:35180 on port 1883.
+1764957952: New client connected from 172.18.0.1:35180 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764958164: New connection from 172.18.0.4:54602 on port 1883.
+1764958165: New client connected from 172.18.0.4:54602 as SemaforoAyL-publisher (p2, c1, k60).
+1764958165: Client SemaforoAyL-publisher disconnected.
+1764958171: New connection from 172.18.0.4:41018 on port 1883.
+1764958171: New client connected from 172.18.0.4:41018 as SemaforoAyL-publisher (p2, c1, k60).
+1764958171: Client SemaforoAyL-publisher disconnected.
+1764958174: New connection from 172.18.0.4:41028 on port 1883.
+1764958175: New client connected from 172.18.0.4:41028 as SemaforoAyL-publisher (p2, c1, k60).
+1764958175: Client SemaforoAyL-publisher disconnected.
+1764958178: New connection from 172.18.0.4:41030 on port 1883.
+1764958178: New client connected from 172.18.0.4:41030 as SemaforoAyL-publisher (p2, c1, k60).
+1764958178: Client SemaforoAyL-publisher disconnected.
+1764958179: New connection from 172.18.0.4:41040 on port 1883.
+1764958179: New client connected from 172.18.0.4:41040 as SemaforoAyL-publisher (p2, c1, k60).
+1764958179: Client SemaforoAyL-publisher disconnected.
+1764958229: New connection from 172.18.0.4:52654 on port 1883.
+1764958229: New client connected from 172.18.0.4:52654 as SemaforoAyL-publisher (p2, c1, k60).
+1764958229: Client SemaforoAyL-publisher disconnected.
+1764958236: New connection from 172.18.0.4:34766 on port 1883.
+1764958237: New client connected from 172.18.0.4:34766 as SemaforoAyL-publisher (p2, c1, k60).
+1764958237: Client SemaforoAyL-publisher disconnected.
+1764958243: New connection from 172.18.0.4:43972 on port 1883.
+1764958243: New client connected from 172.18.0.4:43972 as SemaforoAyL-publisher (p2, c1, k60).
+1764958243: Client SemaforoAyL-publisher disconnected.
+1764958361: New connection from 172.18.0.4:55722 on port 1883.
+1764958361: New client connected from 172.18.0.4:55722 as SemaforoAyL-publisher (p2, c1, k60).
+1764958361: Client SemaforoAyL-publisher disconnected.
+1764958362: New connection from 172.18.0.4:55736 on port 1883.
+1764958363: New client connected from 172.18.0.4:55736 as SemaforoAyL-publisher (p2, c1, k60).
+1764958363: Client SemaforoAyL-publisher disconnected.
+1764958364: New connection from 172.18.0.4:55740 on port 1883.
+1764958365: New connection from 172.18.0.4:55752 on port 1883.
+1764958365: New client connected from 172.18.0.4:55740 as SemaforoAyL-publisher (p2, c1, k60).
+1764958365: Client SemaforoAyL-publisher disconnected.
+1764958365: New client connected from 172.18.0.4:55752 as SemaforoAyL-publisher (p2, c1, k60).
+1764958365: Client SemaforoAyL-publisher disconnected.
+1764958365: New connection from 172.18.0.4:55766 on port 1883.
+1764958365: New connection from 172.18.0.4:55764 on port 1883.
+1764958366: New client connected from 172.18.0.4:55766 as SemaforoAyL-publisher (p2, c1, k60).
+1764958366: Client SemaforoAyL-publisher already connected, closing old connection.
+1764958366: New client connected from 172.18.0.4:55764 as SemaforoAyL-publisher (p2, c1, k60).
+1764958366: Client SemaforoAyL-publisher disconnected.
+1764958369: New connection from 172.18.0.4:55782 on port 1883.
+1764958369: New client connected from 172.18.0.4:55782 as SemaforoAyL-publisher (p2, c1, k60).
+1764958369: Client SemaforoAyL-publisher disconnected.
+1764958371: New connection from 172.18.0.4:42906 on port 1883.
+1764958371: New client connected from 172.18.0.4:42906 as SemaforoAyL-publisher (p2, c1, k60).
+1764958371: Client SemaforoAyL-publisher disconnected.
+1764958387: New connection from 172.18.0.4:36270 on port 1883.
+1764958387: New client connected from 172.18.0.4:36270 as SemaforoAyL-publisher (p2, c1, k60).
+1764958387: Client SemaforoAyL-publisher disconnected.
+1764958405: Client SemaforoAyL-subscriber closed its connection.
+1764958406: mosquitto version 2.0.22 terminating
+1764958406: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1764958943: mosquitto version 2.0.22 starting
+1764958943: Config loaded from /mosquitto/config/mosquitto.conf.
+1764958943: Opening ipv4 listen socket on port 1883.
+1764958943: Opening ipv6 listen socket on port 1883.
+1764958943: Opening websockets listen socket on port 9001.
+1764958943: mosquitto version 2.0.22 running
+1764958946: New connection from 172.18.0.4:55288 on port 1883.
+1764958946: New client connected from 172.18.0.4:55288 as SemaforoAyL-subscriber (p2, c0, k60).
+1764958946: New connection from 172.18.0.4:55298 on port 1883.
+1764958946: New connection from 172.18.0.1:43784 on port 1883.
+1764958947: New client connected from 172.18.0.4:55298 as SemaforoAyL-publisher (p2, c1, k60).
+1764958947: Client SemaforoAyL-publisher disconnected.
+1764958949: New client connected from 172.18.0.1:43784 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764959071: New connection from 172.18.0.4:51132 on port 1883.
+1764959071: New client connected from 172.18.0.4:51132 as SemaforoAyL-publisher (p2, c1, k60).
+1764959071: Client SemaforoAyL-publisher disconnected.
+1764959083: New connection from 172.18.0.4:51424 on port 1883.
+1764959084: New client connected from 172.18.0.4:51424 as SemaforoAyL-publisher (p2, c1, k60).
+1764959084: Client SemaforoAyL-publisher disconnected.
+1764959086: New connection from 172.18.0.4:51432 on port 1883.
+1764959086: New client connected from 172.18.0.4:51432 as SemaforoAyL-publisher (p2, c1, k60).
+1764959086: Client SemaforoAyL-publisher disconnected.
+1764959099: New connection from 172.18.0.4:46492 on port 1883.
+1764959100: New client connected from 172.18.0.4:46492 as SemaforoAyL-publisher (p2, c1, k60).
+1764959100: Client SemaforoAyL-publisher disconnected.
+1764959108: New connection from 172.18.0.4:46506 on port 1883.
+1764959108: New client connected from 172.18.0.4:46506 as SemaforoAyL-publisher (p2, c1, k60).
+1764959108: Client SemaforoAyL-publisher disconnected.
+1764959111: New connection from 172.18.0.4:59470 on port 1883.
+1764959111: New client connected from 172.18.0.4:59470 as SemaforoAyL-publisher (p2, c1, k60).
+1764959111: Client SemaforoAyL-publisher disconnected.
+1764959250: New connection from 172.18.0.4:48938 on port 1883.
+1764959251: New client connected from 172.18.0.4:48938 as SemaforoAyL-publisher (p2, c1, k60).
+1764959251: Client SemaforoAyL-publisher disconnected.
+1764959285: New connection from 172.18.0.4:36022 on port 1883.
+1764959285: New client connected from 172.18.0.4:36022 as SemaforoAyL-publisher (p2, c1, k60).
+1764959285: Client SemaforoAyL-publisher disconnected.
+1764959297: New connection from 172.18.0.4:50350 on port 1883.
+1764959298: New client connected from 172.18.0.4:50350 as SemaforoAyL-publisher (p2, c1, k60).
+1764959298: Client SemaforoAyL-publisher disconnected.
+1764959300: New connection from 172.18.0.4:50118 on port 1883.
+1764959300: New client connected from 172.18.0.4:50118 as SemaforoAyL-publisher (p2, c1, k60).
+1764959300: Client SemaforoAyL-publisher disconnected.
+1764959528: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1764959529: New connection from 172.18.0.1:38922 on port 1883.
+1764959529: New client connected from 172.18.0.1:38922 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1764960722: Client SemaforoAyL-subscriber closed its connection.
+1764960723: mosquitto version 2.0.22 terminating
+1764960723: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765555218: mosquitto version 2.0.22 starting
+1765555218: Config loaded from /mosquitto/config/mosquitto.conf.
+1765555218: Opening ipv4 listen socket on port 1883.
+1765555218: Opening ipv6 listen socket on port 1883.
+1765555218: Opening websockets listen socket on port 9001.
+1765555218: mosquitto version 2.0.22 running
+1765555221: New connection from 172.18.0.4:53134 on port 1883.
+1765555221: New client connected from 172.18.0.4:53134 as SemaforoAyL-subscriber (p2, c0, k60).
+1765555221: New connection from 172.18.0.4:53138 on port 1883.
+1765555222: New client connected from 172.18.0.4:53138 as SemaforoAyL-publisher (p2, c1, k60).
+1765555222: Client SemaforoAyL-publisher disconnected.
+1765555670: New connection from 172.18.0.1:42248 on port 1883.
+1765555670: Client <unknown> disconnected due to protocol error.
+1765555671: New connection from 172.18.0.1:42256 on port 1883.
+1765555671: Client <unknown> disconnected due to protocol error.
+1765556712: New connection from 172.18.0.1:43980 on port 1883.
+1765556713: New client connected from 172.18.0.1:43980 as paho177562889064602 (p2, c1, k60).
+1765557018: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765557266: Client paho177562889064602 closed its connection.
+1765557287: New connection from 172.18.0.1:40030 on port 1883.
+1765557287: New client connected from 172.18.0.1:40030 as paho178137723910870 (p2, c1, k60).
+1765557491: Client paho178137723910870 closed its connection.
+1765557501: New connection from 172.18.0.1:48464 on port 1883.
+1765557502: New client connected from 172.18.0.1:48464 as paho178351923324020 (p2, c1, k60).
+1765557709: Client paho178351923324020 disconnected.
+1765557720: New connection from 172.18.0.1:35084 on port 1883.
+1765557720: New client connected from 172.18.0.1:35084 as paho178570293443227 (p2, c1, k60).
+1765557731: Client paho178570293443227 disconnected.
+1765557748: New connection from 172.18.0.1:38450 on port 1883.
+1765557748: New client connected from 172.18.0.1:38450 as paho178598509867923 (p2, c1, k60).
+1765557764: Client paho178598509867923 disconnected.
+1765557921: New connection from 172.18.0.1:36310 on port 1883.
+1765557921: New client connected from 172.18.0.1:36310 as paho178771302442064 (p2, c1, k60).
+1765557976: Client paho178771302442064 closed its connection.
+1765557989: New connection from 172.18.0.4:58120 on port 1883.
+1765557989: New client connected from 172.18.0.4:58120 as SemaforoAyL-publisher (p2, c1, k60).
+1765557989: Client SemaforoAyL-publisher disconnected.
+1765557991: New connection from 172.18.0.4:58136 on port 1883.
+1765557992: New client connected from 172.18.0.4:58136 as SemaforoAyL-publisher (p2, c1, k60).
+1765557992: Client SemaforoAyL-publisher disconnected.
+1765557994: New connection from 172.18.0.4:41352 on port 1883.
+1765557994: New client connected from 172.18.0.4:41352 as SemaforoAyL-publisher (p2, c1, k60).
+1765557994: Client SemaforoAyL-publisher disconnected.
+1765557998: New connection from 172.18.0.4:41360 on port 1883.
+1765557998: New client connected from 172.18.0.4:41360 as SemaforoAyL-publisher (p2, c1, k60).
+1765557998: Client SemaforoAyL-publisher disconnected.
+1765558000: New connection from 172.18.0.1:48422 on port 1883.
+1765558000: New client connected from 172.18.0.1:48422 as paho178850734372970 (p2, c1, k60).
+1765558003: Client paho178850734372970 disconnected.
+1765558006: New connection from 172.18.0.1:51436 on port 1883.
+1765558006: New client connected from 172.18.0.1:51436 as paho178856490252408 (p2, c1, k60).
+1765558007: Client paho178856490252408 disconnected.
+1765558011: New connection from 172.18.0.1:51452 on port 1883.
+1765558011: New client connected from 172.18.0.1:51452 as paho178861708862152 (p2, c1, k60).
+1765558037: Client paho178861708862152 disconnected.
+1765558309: New connection from 172.18.0.1:42754 on port 1883.
+1765558309: New client connected from 172.18.0.1:42754 as paho179159162571037 (p2, c1, k60).
+1765558359: Client paho179159162571037 disconnected.
+1765558361: New connection from 172.18.0.1:50942 on port 1883.
+1765558362: New client connected from 172.18.0.1:50942 as paho179211977148211 (p2, c1, k60).
+1765558381: Client paho179211977148211 disconnected.
+1765558386: New connection from 172.18.0.4:46070 on port 1883.
+1765558386: New client connected from 172.18.0.4:46070 as SemaforoAyL-publisher (p2, c1, k60).
+1765558386: Client SemaforoAyL-publisher disconnected.
+1765558387: New connection from 172.18.0.1:38362 on port 1883.
+1765558388: New client connected from 172.18.0.1:38362 as paho179238026915029 (p2, c1, k60).
+1765558426: Client paho179238026915029 disconnected.
+1765558437: New connection from 172.18.0.1:46192 on port 1883.
+1765558437: New client connected from 172.18.0.1:46192 as paho179287385460708 (p2, c1, k60).
+1765558556: Client paho179287385460708 disconnected.
+1765558819: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765559336: New connection from 172.18.0.1:56332 on port 1883.
+1765559336: New client connected from 172.18.0.1:56332 as paho180186635850307 (p2, c1, k60).
+1765559557: Client paho180186635850307 disconnected.
+1765559717: New connection from 172.18.0.4:58310 on port 1883.
+1765559717: New client connected from 172.18.0.4:58310 as SemaforoAyL-publisher (p2, c1, k60).
+1765559717: Client SemaforoAyL-publisher disconnected.
+1765559721: New connection from 172.18.0.4:58314 on port 1883.
+1765559721: New client connected from 172.18.0.4:58314 as SemaforoAyL-publisher (p2, c1, k60).
+1765559721: Client SemaforoAyL-publisher disconnected.
+1765559722: New connection from 172.18.0.4:50038 on port 1883.
+1765559722: New client connected from 172.18.0.4:50038 as SemaforoAyL-publisher (p2, c1, k60).
+1765559722: Client SemaforoAyL-publisher disconnected.
+1765559732: New connection from 172.18.0.1:46674 on port 1883.
+1765559732: New client connected from 172.18.0.1:46674 as paho180582822100378 (p2, c1, k60).
+1765559766: Client paho180582822100378 disconnected.
+1765559774: New connection from 172.18.0.1:51602 on port 1883.
+1765559774: New client connected from 172.18.0.1:51602 as paho180624698949723 (p2, c1, k60).
+1765559780: Client paho180624698949723 disconnected.
+1765559787: New connection from 172.18.0.1:36828 on port 1883.
+1765559788: New client connected from 172.18.0.1:36828 as paho180638051898989 (p2, c1, k60).
+1765559791: Client paho180638051898989 disconnected.
+1765560447: New connection from 172.18.0.1:46852 on port 1883.
+1765560448: New client connected from 172.18.0.1:46852 as paho181297970780496 (p2, c1, k60).
+1765560620: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765560855: Client paho181297970780496 closed its connection.
+1765560924: New connection from 172.18.0.1:52214 on port 1883.
+1765560925: New client connected from 172.18.0.1:52214 as paho181775115305835 (p2, c1, k60).
+1765560960: Client paho181775115305835 disconnected.
+1765561151: New connection from 172.18.0.1:41532 on port 1883.
+1765561151: New client connected from 172.18.0.1:41532 as paho182001929218299 (p2, c1, k60).
+1765561153: Client paho182001929218299 disconnected.
+1765561157: New connection from 172.18.0.1:52106 on port 1883.
+1765561158: New client connected from 172.18.0.1:52106 as paho182008007303385 (p2, c1, k60).
+1765561160: Client paho182008007303385 disconnected.
+1765561162: New connection from 172.18.0.1:52114 on port 1883.
+1765561162: New client connected from 172.18.0.1:52114 as paho182012381045819 (p2, c1, k60).
+1765561169: Client paho182012381045819 disconnected.
+1765561535: New connection from 172.18.0.1:54756 on port 1883.
+1765561535: New client connected from 172.18.0.1:54756 as paho182385304739889 (p2, c1, k60).
+1765561545: Client paho182385304739889 disconnected.
+1765561609: New connection from 172.18.0.1:53258 on port 1883.
+1765561609: New client connected from 172.18.0.1:53258 as paho182459646896949 (p2, c1, k60).
+1765561656: Client paho182459646896949 disconnected.
+1765561926: New connection from 172.18.0.1:35190 on port 1883.
+1765561926: New client connected from 172.18.0.1:35190 as paho182776745206023 (p2, c1, k60).
+1765561995: Client paho182776745206023 disconnected.
+1765562232: New connection from 172.18.0.1:50434 on port 1883.
+1765562232: New client connected from 172.18.0.1:50434 as paho183082435841223 (p2, c1, k60).
+1765562421: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765562483: Client paho183082435841223 disconnected.
+1765562529: New connection from 172.18.0.1:34258 on port 1883.
+1765562529: New client connected from 172.18.0.1:34258 as paho183379623162494 (p2, c1, k60).
+1765562534: Client paho183379623162494 disconnected.
+1765562543: New connection from 172.18.0.1:45572 on port 1883.
+1765562543: New client connected from 172.18.0.1:45572 as paho183393337063787 (p2, c1, k60).
+1765562573: Client paho183393337063787 closed its connection.
+1765562718: New connection from 172.18.0.1:55154 on port 1883.
+1765562719: New client connected from 172.18.0.1:55154 as paho183569104215402 (p2, c1, k60).
+1765562942: Client paho183569104215402 disconnected.
+1765563065: New connection from 172.18.0.1:60000 on port 1883.
+1765563065: New client connected from 172.18.0.1:60000 as paho183915642898555 (p2, c1, k60).
+1765563232: Client paho183915642898555 disconnected.
+1765563234: New connection from 172.18.0.1:38472 on port 1883.
+1765563234: New client connected from 172.18.0.1:38472 as paho184084993550249 (p2, c1, k60).
+1765563253: Client paho184084993550249 disconnected.
+1765563395: New connection from 172.18.0.4:60416 on port 1883.
+1765563395: New client connected from 172.18.0.4:60416 as SemaforoAyL-publisher (p2, c1, k60).
+1765563395: Client SemaforoAyL-publisher disconnected.
+1765563396: New connection from 172.18.0.1:49042 on port 1883.
+1765563397: New client connected from 172.18.0.1:49042 as paho184247032579666 (p2, c1, k60).
+1765563405: Client paho184247032579666 disconnected.
+1765563487: New connection from 172.18.0.1:51684 on port 1883.
+1765563488: New client connected from 172.18.0.1:51684 as paho184338263924803 (p2, c1, k60).
+1765563576: Client paho184338263924803 disconnected.
+1765563587: New connection from 172.18.0.1:44032 on port 1883.
+1765563588: New client connected from 172.18.0.1:44032 as paho184438247580573 (p2, c1, k60).
+1765563715: Client paho184438247580573 disconnected.
+1765563794: New connection from 172.18.0.1:48132 on port 1883.
+1765563794: New client connected from 172.18.0.1:48132 as paho184644390736801 (p2, c1, k60).
+1765563869: Client paho184644390736801 disconnected.
+1765563869: New connection from 172.18.0.1:58360 on port 1883.
+1765563870: New client connected from 172.18.0.1:58360 as paho184720208243878 (p2, c1, k60).
+1765563872: Client paho184720208243878 disconnected.
+1765563875: New connection from 172.18.0.1:47384 on port 1883.
+1765563875: New client connected from 172.18.0.1:47384 as paho184725426359318 (p2, c1, k60).
+1765563887: Client paho184725426359318 disconnected.
+1765564019: New connection from 172.18.0.1:59134 on port 1883.
+1765564020: New client connected from 172.18.0.1:59134 as paho184870357013930 (p2, c1, k60).
+1765564025: Client paho184870357013930 disconnected.
+1765564187: New connection from 172.18.0.1:33132 on port 1883.
+1765564187: New client connected from 172.18.0.1:33132 as paho185037876801609 (p2, c1, k60).
+1765564189: Client paho185037876801609 disconnected.
+1765564190: New connection from 172.18.0.1:33138 on port 1883.
+1765564190: New client connected from 172.18.0.1:33138 as paho185040481869319 (p2, c1, k60).
+1765564191: Client paho185040481869319 disconnected.
+1765564196: New connection from 172.18.0.1:46586 on port 1883.
+1765564196: New client connected from 172.18.0.1:46586 as paho185047076877704 (p2, c1, k60).
+1765564198: Client paho185047076877704 disconnected.
+1765564203: New connection from 172.18.0.1:35652 on port 1883.
+1765564204: New client connected from 172.18.0.1:35652 as paho185054285787010 (p2, c1, k60).
+1765564205: Client paho185054285787010 disconnected.
+1765564222: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765564293: New connection from 172.18.0.1:35392 on port 1883.
+1765564293: New client connected from 172.18.0.1:35392 as paho185144008731227 (p2, c1, k60).
+1765564295: Client paho185144008731227 disconnected.
+1765564295: New connection from 172.18.0.4:56642 on port 1883.
+1765564295: New client connected from 172.18.0.4:56642 as SemaforoAyL-publisher (p2, c1, k60).
+1765564295: Client SemaforoAyL-publisher disconnected.
+1765564295: New connection from 172.18.0.4:56644 on port 1883.
+1765564296: New client connected from 172.18.0.4:56644 as SemaforoAyL-publisher (p2, c1, k60).
+1765564296: Client SemaforoAyL-publisher disconnected.
+1765564383: New connection from 172.18.0.1:45646 on port 1883.
+1765564383: New client connected from 172.18.0.1:45646 as paho185232810786893 (p2, c1, k60).
+1765564582: Client paho185232810786893 disconnected.
+1765564764: New connection from 172.18.0.1:33582 on port 1883.
+1765564764: New client connected from 172.18.0.1:33582 as paho185614775231782 (p2, c1, k60).
+1765564846: Client paho185614775231782 disconnected.
+1765564846: New connection from 172.18.0.1:39506 on port 1883.
+1765564846: New client connected from 172.18.0.1:39506 as paho185696837012787 (p2, c1, k60).
+1765564847: Client paho185696837012787 disconnected.
+1765564850: New connection from 172.18.0.4:43102 on port 1883.
+1765564851: New client connected from 172.18.0.4:43102 as SemaforoAyL-publisher (p2, c1, k60).
+1765564851: Client SemaforoAyL-publisher disconnected.
+1765564851: New connection from 172.18.0.4:43108 on port 1883.
+1765564851: New client connected from 172.18.0.4:43108 as SemaforoAyL-publisher (p2, c1, k60).
+1765564851: Client SemaforoAyL-publisher disconnected.
+1765564851: New connection from 172.18.0.4:43116 on port 1883.
+1765564852: New client connected from 172.18.0.4:43116 as SemaforoAyL-publisher (p2, c1, k60).
+1765564852: Client SemaforoAyL-publisher disconnected.
+1765564855: New connection from 172.18.0.4:58752 on port 1883.
+1765564855: New client connected from 172.18.0.4:58752 as SemaforoAyL-publisher (p2, c1, k60).
+1765564855: Client SemaforoAyL-publisher disconnected.
+1765564857: New connection from 172.18.0.1:52346 on port 1883.
+1765564857: New client connected from 172.18.0.1:52346 as paho185708122990128 (p2, c1, k60).
+1765564919: Client paho185708122990128 closed its connection.
+1765565349: New connection from 172.18.0.1:52374 on port 1883.
+1765565350: New client connected from 172.18.0.1:52374 as paho186200179459648 (p2, c1, k60).
+1765565358: Client paho186200179459648 disconnected.
+1765565358: New connection from 172.18.0.1:34568 on port 1883.
+1765565358: New client connected from 172.18.0.1:34568 as paho186209013032243 (p2, c1, k60).
+1765565401: Client paho186209013032243 disconnected.
+1765565699: New connection from 172.18.0.1:43736 on port 1883.
+1765565700: New client connected from 172.18.0.1:43736 as paho186550237504741 (p2, c1, k60).
+1765565707: Client paho186550237504741 disconnected.
+1765565707: New connection from 172.18.0.4:45164 on port 1883.
+1765565708: New client connected from 172.18.0.4:45164 as SemaforoAyL-publisher (p2, c1, k60).
+1765565708: Client SemaforoAyL-publisher disconnected.
+1765566023: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765566161: Client SemaforoAyL-subscriber closed its connection.
+1765566162: mosquitto version 2.0.22 terminating
+1765566162: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765614258: mosquitto version 2.0.22 starting
+1765614258: Config loaded from /mosquitto/config/mosquitto.conf.
+1765614258: Opening ipv4 listen socket on port 1883.
+1765614258: Opening ipv6 listen socket on port 1883.
+1765614258: Opening websockets listen socket on port 9001.
+1765614258: mosquitto version 2.0.22 running
+1765614262: New connection from 172.18.0.4:54012 on port 1883.
+1765614262: New client connected from 172.18.0.4:54012 as SemaforoAyL-subscriber (p2, c0, k60).
+1765614262: New connection from 172.18.0.4:54014 on port 1883.
+1765614262: New client connected from 172.18.0.4:54014 as SemaforoAyL-publisher (p2, c1, k60).
+1765614262: Client SemaforoAyL-publisher disconnected.
+1765614270: New connection from 172.18.0.1:33306 on port 1883.
+1765614270: New client connected from 172.18.0.1:33306 as paho204183428295618 (p2, c1, k60).
+1765614297: Client paho204183428295618 disconnected.
+1765614558: New connection from 172.18.0.1:39112 on port 1883.
+1765614558: New client connected from 172.18.0.1:39112 as paho204471712125796 (p2, c1, k60).
+1765614626: Client paho204471712125796 closed its connection.
+1765614630: New connection from 172.18.0.1:58234 on port 1883.
+1765614631: New client connected from 172.18.0.1:58234 as paho204471712125796 (p2, c1, k60).
+1765614640: Client paho204471712125796 disconnected.
+1765615167: New connection from 172.18.0.1:44400 on port 1883.
+1765615168: New client connected from 172.18.0.1:44400 as paho205081245280146 (p2, c1, k60).
+1765615225: Client paho205081245280146 closed its connection.
+1765615293: New connection from 172.18.0.1:56522 on port 1883.
+1765615294: New client connected from 172.18.0.1:56522 as paho205207204830012 (p2, c1, k60).
+1765615297: Client paho205207204830012 disconnected.
+1765615299: New connection from 172.18.0.4:49436 on port 1883.
+1765615299: New client connected from 172.18.0.4:49436 as SemaforoAyL-publisher (p2, c1, k60).
+1765615299: Client SemaforoAyL-publisher disconnected.
+1765615300: New connection from 172.18.0.4:49438 on port 1883.
+1765615300: New client connected from 172.18.0.4:49438 as SemaforoAyL-publisher (p2, c1, k60).
+1765615300: Client SemaforoAyL-publisher disconnected.
+1765615301: New connection from 172.18.0.4:49444 on port 1883.
+1765615301: New client connected from 172.18.0.4:49444 as SemaforoAyL-publisher (p2, c1, k60).
+1765615301: Client SemaforoAyL-publisher disconnected.
+1765615302: New connection from 172.18.0.1:53968 on port 1883.
+1765615302: New client connected from 172.18.0.1:53968 as paho205215668939473 (p2, c1, k60).
+1765615598: Client paho205215668939473 closed its connection.
+1765615734: New connection from 172.18.0.1:57072 on port 1883.
+1765615734: New client connected from 172.18.0.1:57072 as paho205647413258206 (p2, c1, k60).
+1765615739: Client paho205647413258206 disconnected.
+1765616059: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765616136: New connection from 172.18.0.1:60920 on port 1883.
+1765616137: New client connected from 172.18.0.1:60920 as paho206050145212016 (p2, c1, k60).
+1765616244: Client paho206050145212016 disconnected.
+1765616252: New connection from 172.18.0.1:33886 on port 1883.
+1765616252: New client connected from 172.18.0.1:33886 as paho206165508788895 (p2, c1, k60).
+1765616254: Client paho206165508788895 disconnected.
+1765616347: New connection from 172.18.0.1:38942 on port 1883.
+1765616348: New client connected from 172.18.0.1:38942 as paho206261295292075 (p2, c1, k60).
+1765616487: Client paho206261295292075 disconnected.
+1765616495: New connection from 172.18.0.1:45160 on port 1883.
+1765616496: New client connected from 172.18.0.1:45160 as paho206409236909009 (p2, c1, k60).
+1765616505: Client paho206409236909009 disconnected.
+1765616510: New connection from 172.18.0.1:38070 on port 1883.
+1765616511: New client connected from 172.18.0.1:38070 as paho206424450549601 (p2, c1, k60).
+1765616512: Client paho206424450549601 disconnected.
+1765617155: New connection from 172.18.0.1:35704 on port 1883.
+1765617155: New client connected from 172.18.0.1:35704 as paho207069006364776 (p2, c1, k60).
+1765617157: Client paho207069006364776 disconnected.
+1765617215: New connection from 172.18.0.1:47420 on port 1883.
+1765617215: New client connected from 172.18.0.1:47420 as paho207129053073383 (p2, c1, k60).
+1765617217: Client paho207129053073383 disconnected.
+1765617437: New connection from 172.18.0.1:60150 on port 1883.
+1765617437: New client connected from 172.18.0.1:60150 as paho207350613859054 (p2, c1, k60).
+1765617443: Client paho207350613859054 disconnected.
+1765617445: New connection from 172.18.0.1:55064 on port 1883.
+1765617445: New client connected from 172.18.0.1:55064 as paho207358946064950 (p2, c1, k60).
+1765617450: Client paho207358946064950 disconnected.
+1765617859: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765618660: New connection from 172.18.0.1:40148 on port 1883.
+1765618660: New client connected from 172.18.0.1:40148 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1765618668: New connection from 172.18.0.1:40154 on port 1883.
+1765618668: New client connected from 172.18.0.1:40154 as paho208581766400467 (p2, c1, k60).
+1765618708: Client paho208581766400467 disconnected.
+1765618711: New connection from 172.18.0.4:37960 on port 1883.
+1765618711: New client connected from 172.18.0.4:37960 as SemaforoAyL-publisher (p2, c1, k60).
+1765618711: Client SemaforoAyL-publisher disconnected.
+1765618714: New connection from 172.18.0.4:37966 on port 1883.
+1765618714: New client connected from 172.18.0.4:37966 as SemaforoAyL-publisher (p2, c1, k60).
+1765618714: Client SemaforoAyL-publisher disconnected.
+1765618720: New connection from 172.18.0.4:57700 on port 1883.
+1765618720: New client connected from 172.18.0.4:57700 as SemaforoAyL-publisher (p2, c1, k60).
+1765618720: Client SemaforoAyL-publisher disconnected.
+1765618727: New connection from 172.18.0.4:57704 on port 1883.
+1765618727: New client connected from 172.18.0.4:57704 as SemaforoAyL-publisher (p2, c1, k60).
+1765618727: Client SemaforoAyL-publisher disconnected.
+1765618728: New connection from 172.18.0.4:35372 on port 1883.
+1765618729: New client connected from 172.18.0.4:35372 as SemaforoAyL-publisher (p2, c1, k60).
+1765618729: Client SemaforoAyL-publisher disconnected.
+1765618763: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1765618806: New connection from 172.18.0.1:50394 on port 1883.
+1765618806: New client connected from 172.18.0.1:50394 as paho208716046355082 (p2, c1, k60).
+1765618814: Client paho208716046355082 disconnected.
+1765619496: Client SemaforoAyL-subscriber closed its connection.
+1765619497: mosquitto version 2.0.22 terminating
+1765619497: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765619507: mosquitto version 2.0.22 starting
+1765619507: Config loaded from /mosquitto/config/mosquitto.conf.
+1765619507: Opening ipv4 listen socket on port 1883.
+1765619507: Opening ipv6 listen socket on port 1883.
+1765619507: Opening websockets listen socket on port 9001.
+1765619507: mosquitto version 2.0.22 running
+1765619511: New connection from 172.18.0.4:57098 on port 1883.
+1765619511: New client connected from 172.18.0.4:57098 as SemaforoAyL-subscriber (p2, c0, k60).
+1765619511: New connection from 172.18.0.4:57104 on port 1883.
+1765619511: New client connected from 172.18.0.4:57104 as SemaforoAyL-publisher (p2, c1, k60).
+1765619511: Client SemaforoAyL-publisher disconnected.
+1765619555: New connection from 172.18.0.1:54438 on port 1883.
+1765619555: New client connected from 172.18.0.1:54438 as paho209086875177000 (p2, c1, k60).
+1765619564: Client paho209086875177000 disconnected.
+1765619566: New connection from 172.18.0.1:45122 on port 1883.
+1765619567: New client connected from 172.18.0.1:45122 as paho209098347654056 (p2, c1, k60).
+1765619582: Client paho209098347654056 disconnected.
+1765619584: New connection from 172.18.0.1:59440 on port 1883.
+1765619585: New client connected from 172.18.0.1:59440 as paho209116289838635 (p2, c1, k60).
+1765619597: Client paho209116289838635 disconnected.
+1765619600: New connection from 172.18.0.1:45718 on port 1883.
+1765619600: New client connected from 172.18.0.1:45718 as paho209131838825296 (p2, c1, k60).
+1765619615: Client paho209131838825296 disconnected.
+1765619624: New connection from 172.18.0.1:32998 on port 1883.
+1765619624: New client connected from 172.18.0.1:32998 as paho209155822966747 (p2, c1, k60).
+1765619628: Client paho209155822966747 disconnected.
+1765619644: New connection from 172.18.0.1:52112 on port 1883.
+1765619644: New client connected from 172.18.0.1:52112 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1765619659: New connection from 172.18.0.4:39116 on port 1883.
+1765619659: New client connected from 172.18.0.4:39116 as SemaforoAyL-publisher (p2, c1, k60).
+1765619659: Client SemaforoAyL-publisher disconnected.
+1765619662: New connection from 172.18.0.4:39118 on port 1883.
+1765619663: New client connected from 172.18.0.4:39118 as SemaforoAyL-publisher (p2, c1, k60).
+1765619663: Client SemaforoAyL-publisher disconnected.
+1765619666: New connection from 172.18.0.4:39124 on port 1883.
+1765619666: New client connected from 172.18.0.4:39124 as SemaforoAyL-publisher (p2, c1, k60).
+1765619666: Client SemaforoAyL-publisher disconnected.
+1765619676: New connection from 172.18.0.4:43982 on port 1883.
+1765619677: New client connected from 172.18.0.4:43982 as SemaforoAyL-publisher (p2, c1, k60).
+1765619677: Client SemaforoAyL-publisher disconnected.
+1765619680: New connection from 172.18.0.4:36398 on port 1883.
+1765619681: New client connected from 172.18.0.4:36398 as SemaforoAyL-publisher (p2, c1, k60).
+1765619681: Client SemaforoAyL-publisher disconnected.
+1765619689: New connection from 172.18.0.1:50248 on port 1883.
+1765619690: New client connected from 172.18.0.1:50248 as paho209221460463483 (p2, c1, k60).
+1765619693: Client paho209221460463483 disconnected.
+1765619695: New connection from 172.18.0.1:50252 on port 1883.
+1765619695: New client connected from 172.18.0.1:50252 as paho209226831815862 (p2, c1, k60).
+1765619722: Client paho209226831815862 disconnected.
+1765619725: New connection from 172.18.0.1:40100 on port 1883.
+1765619725: New client connected from 172.18.0.1:40100 as paho209256699441121 (p2, c1, k60).
+1765619754: Client paho209256699441121 closed its connection.
+1765619767: New connection from 172.18.0.1:35870 on port 1883.
+1765619767: New client connected from 172.18.0.1:35870 as paho209256699441121 (p2, c1, k60).
+1765619805: Client paho209256699441121 closed its connection.
+1765619818: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1765619828: New connection from 172.18.0.1:39342 on port 1883.
+1765619828: New client connected from 172.18.0.1:39342 as paho209256699441121 (p2, c1, k60).
+1765619830: Client paho209256699441121 disconnected.
+1765619913: New connection from 172.18.0.1:44666 on port 1883.
+1765619913: New client connected from 172.18.0.1:44666 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1765619921: New connection from 172.18.0.1:47062 on port 1883.
+1765619921: New client connected from 172.18.0.1:47062 as paho209396584521593 (p2, c1, k60).
+1765619926: Client paho209396584521593 disconnected.
+1765619927: New connection from 172.18.0.1:47078 on port 1883.
+1765619927: New client connected from 172.18.0.1:47078 as paho209402293085764 (p2, c1, k60).
+1765619930: Client paho209402293085764 disconnected.
+1765619931: New connection from 172.18.0.1:42436 on port 1883.
+1765619932: New client connected from 172.18.0.1:42436 as paho209406933073274 (p2, c1, k60).
+1765619970: Client paho209406933073274 disconnected.
+1765619970: New connection from 172.18.0.1:46618 on port 1883.
+1765619971: New client connected from 172.18.0.1:46618 as paho209445912088226 (p2, c1, k60).
+1765619977: Client paho209445912088226 disconnected.
+1765619983: New connection from 172.18.0.4:60832 on port 1883.
+1765619984: New client connected from 172.18.0.4:60832 as SemaforoAyL-publisher (p2, c1, k60).
+1765619984: Client SemaforoAyL-publisher disconnected.
+1765619992: New connection from 172.18.0.4:33704 on port 1883.
+1765619993: New client connected from 172.18.0.4:33704 as SemaforoAyL-publisher (p2, c1, k60).
+1765619993: Client SemaforoAyL-publisher disconnected.
+1765619994: New connection from 172.18.0.4:33710 on port 1883.
+1765619994: New client connected from 172.18.0.4:33710 as SemaforoAyL-publisher (p2, c1, k60).
+1765619994: Client SemaforoAyL-publisher disconnected.
+1765620005: New connection from 172.18.0.4:49984 on port 1883.
+1765620006: New client connected from 172.18.0.4:49984 as SemaforoAyL-publisher (p2, c1, k60).
+1765620006: Client SemaforoAyL-publisher disconnected.
+1765620008: New connection from 172.18.0.4:50000 on port 1883.
+1765620008: New client connected from 172.18.0.4:50000 as SemaforoAyL-publisher (p2, c1, k60).
+1765620008: Client SemaforoAyL-publisher disconnected.
+1765620014: New connection from 172.18.0.4:52650 on port 1883.
+1765620015: New client connected from 172.18.0.4:52650 as SemaforoAyL-publisher (p2, c1, k60).
+1765620015: Client SemaforoAyL-publisher disconnected.
+1765620229: New connection from 172.18.0.1:42144 on port 1883.
+1765620229: New client connected from 172.18.0.1:42144 as paho209583426751583 (p2, c1, k60).
+1765620239: Client paho209583426751583 disconnected.
+1765620242: New connection from 172.18.0.1:53944 on port 1883.
+1765620242: New client connected from 172.18.0.1:53944 as paho209595960403241 (p2, c1, k60).
+1765620252: Client paho209595960403241 disconnected.
+1765620561: Client SemaforoAyL-subscriber closed its connection.
+1765620562: mosquitto version 2.0.22 terminating
+1765620562: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765620570: mosquitto version 2.0.22 starting
+1765620570: Config loaded from /mosquitto/config/mosquitto.conf.
+1765620570: Opening ipv4 listen socket on port 1883.
+1765620570: Opening ipv6 listen socket on port 1883.
+1765620570: Opening websockets listen socket on port 9001.
+1765620570: mosquitto version 2.0.22 running
+1765620573: New connection from 172.18.0.4:38814 on port 1883.
+1765620574: New client connected from 172.18.0.4:38814 as SemaforoAyL-subscriber (p2, c0, k60).
+1765620574: New connection from 172.18.0.4:38820 on port 1883.
+1765620574: New connection from 172.18.0.1:54312 on port 1883.
+1765620574: New client connected from 172.18.0.1:54312 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1765620574: Client ESP32_TL_001_885721B17478 closed its connection.
+1765620574: New client connected from 172.18.0.4:38820 as SemaforoAyL-publisher (p2, c1, k60).
+1765620574: Client SemaforoAyL-publisher disconnected.
+1765620578: New connection from 172.18.0.1:59056 on port 1883.
+1765620578: New client connected from 172.18.0.1:59056 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1765620688: New connection from 172.18.0.4:36686 on port 1883.
+1765620688: New client connected from 172.18.0.4:36686 as SemaforoAyL-publisher (p2, c1, k60).
+1765620688: Client SemaforoAyL-publisher disconnected.
+1765620703: New connection from 172.18.0.1:34792 on port 1883.
+1765620704: New client connected from 172.18.0.1:34792 as paho209683533523645 (p2, c1, k60).
+1765620708: Client paho209683533523645 disconnected.
+1765620710: New connection from 172.18.0.1:47350 on port 1883.
+1765620710: New client connected from 172.18.0.1:47350 as paho209690213807991 (p2, c1, k60).
+1765620718: Client paho209690213807991 disconnected.
+1765621051: New connection from 172.18.0.4:41664 on port 1883.
+1765621051: New client connected from 172.18.0.4:41664 as SemaforoAyL-publisher (p2, c1, k60).
+1765621051: Client SemaforoAyL-publisher disconnected.
+1765621511: Client SemaforoAyL-subscriber closed its connection.
+1765621542: New connection from 172.18.0.4:33754 on port 1883.
+1765621542: New client connected from 172.18.0.4:33754 as SemaforoAyL-subscriber (p2, c0, k60).
+1765621542: New connection from 172.18.0.4:33770 on port 1883.
+1765621542: New client connected from 172.18.0.4:33770 as SemaforoAyL-publisher (p2, c1, k60).
+1765621542: Client SemaforoAyL-publisher disconnected.
+1765621609: New connection from 172.18.0.4:40814 on port 1883.
+1765621609: New client connected from 172.18.0.4:40814 as SemaforoAyL-publisher (p2, c1, k60).
+1765621609: Client SemaforoAyL-publisher disconnected.
+1765621616: New connection from 172.18.0.4:40822 on port 1883.
+1765621616: New client connected from 172.18.0.4:40822 as SemaforoAyL-publisher (p2, c1, k60).
+1765621616: Client SemaforoAyL-publisher disconnected.
+1765621847: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1765622014: Client SemaforoAyL-subscriber closed its connection.
+1765622014: mosquitto version 2.0.22 terminating
+1765622014: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765622025: mosquitto version 2.0.22 starting
+1765622025: Config loaded from /mosquitto/config/mosquitto.conf.
+1765622025: Opening ipv4 listen socket on port 1883.
+1765622025: Opening ipv6 listen socket on port 1883.
+1765622025: Opening websockets listen socket on port 9001.
+1765622025: mosquitto version 2.0.22 running
+1765622028: New connection from 172.18.0.4:41048 on port 1883.
+1765622028: New client connected from 172.18.0.4:41048 as SemaforoAyL-subscriber (p2, c0, k60).
+1765622028: New connection from 172.18.0.4:41054 on port 1883.
+1765622029: New client connected from 172.18.0.4:41054 as SemaforoAyL-publisher (p2, c1, k60).
+1765622029: Client SemaforoAyL-publisher disconnected.
+1765622038: New connection from 172.18.0.1:59198 on port 1883.
+1765622038: New client connected from 172.18.0.1:59198 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1765622070: New connection from 172.18.0.1:53134 on port 1883.
+1765622071: New client connected from 172.18.0.1:53134 as paho210038975143203 (p2, c1, k60).
+1765622073: Client paho210038975143203 disconnected.
+1765622075: New connection from 172.18.0.1:53150 on port 1883.
+1765622075: New client connected from 172.18.0.1:53150 as paho210043527137713 (p2, c1, k60).
+1765622086: Client paho210043527137713 disconnected.
+1765622741: Client SemaforoAyL-subscriber closed its connection.
+1765622741: mosquitto version 2.0.22 terminating
+1765622741: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765622753: mosquitto version 2.0.22 starting
+1765622753: Config loaded from /mosquitto/config/mosquitto.conf.
+1765622753: Opening ipv4 listen socket on port 1883.
+1765622753: Opening ipv6 listen socket on port 1883.
+1765622753: Opening websockets listen socket on port 9001.
+1765622753: mosquitto version 2.0.22 running
+1765622756: New connection from 172.18.0.4:48226 on port 1883.
+1765622756: New client connected from 172.18.0.4:48226 as SemaforoAyL-subscriber (p2, c0, k60).
+1765622756: New connection from 172.18.0.4:48238 on port 1883.
+1765622756: New client connected from 172.18.0.4:48238 as SemaforoAyL-publisher (p2, c1, k60).
+1765622756: Client SemaforoAyL-publisher disconnected.
+1765622758: New connection from 172.18.0.1:57678 on port 1883.
+1765622758: New client connected from 172.18.0.1:57678 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1765622768: New connection from 172.18.0.1:52992 on port 1883.
+1765622768: New client connected from 172.18.0.1:52992 as paho210269688732956 (p2, c1, k60).
+1765622771: Client paho210269688732956 disconnected.
+1765622773: New connection from 172.18.0.1:53006 on port 1883.
+1765622773: New client connected from 172.18.0.1:53006 as paho210274414617277 (p2, c1, k60).
+1765622775: Client paho210274414617277 disconnected.
+1765622983: New connection from 172.18.0.4:51162 on port 1883.
+1765622983: New client connected from 172.18.0.4:51162 as SemaforoAyL-publisher (p2, c1, k60).
+1765622983: Client SemaforoAyL-publisher disconnected.
+1765623013: New connection from 172.18.0.4:50616 on port 1883.
+1765623013: New client connected from 172.18.0.4:50616 as SemaforoAyL-publisher (p2, c1, k60).
+1765623013: Client SemaforoAyL-publisher disconnected.
+1765623022: New connection from 172.18.0.4:40738 on port 1883.
+1765623022: New client connected from 172.18.0.4:40738 as SemaforoAyL-publisher (p2, c1, k60).
+1765623022: Client SemaforoAyL-publisher disconnected.
+1765623322: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1765623384: New connection from 172.18.0.1:58452 on port 1883.
+1765623384: New client connected from 172.18.0.1:58452 as paho210427802779583 (p2, c1, k60).
+1765623391: Client paho210427802779583 disconnected.
+1765623394: New connection from 172.18.0.1:50746 on port 1883.
+1765623394: New client connected from 172.18.0.1:50746 as paho210437923523769 (p2, c1, k60).
+1765623396: Client paho210437923523769 disconnected.
+1765623398: New connection from 172.18.0.4:54348 on port 1883.
+1765623398: New client connected from 172.18.0.4:54348 as SemaforoAyL-publisher (p2, c1, k60).
+1765623398: Client SemaforoAyL-publisher disconnected.
+1765623421: New connection from 172.18.0.1:38704 on port 1883.
+1765623421: New client connected from 172.18.0.1:38704 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1765623430: New connection from 172.18.0.4:37526 on port 1883.
+1765623430: New client connected from 172.18.0.4:37526 as SemaforoAyL-publisher (p2, c1, k60).
+1765623430: Client SemaforoAyL-publisher disconnected.
+1765623431: New connection from 172.18.0.4:37540 on port 1883.
+1765623432: New client connected from 172.18.0.4:37540 as SemaforoAyL-publisher (p2, c1, k60).
+1765623432: Client SemaforoAyL-publisher disconnected.
+1765623437: New connection from 172.18.0.4:37548 on port 1883.
+1765623437: New client connected from 172.18.0.4:37548 as SemaforoAyL-publisher (p2, c1, k60).
+1765623437: Client SemaforoAyL-publisher disconnected.
+1765623441: New connection from 172.18.0.4:38418 on port 1883.
+1765623441: New client connected from 172.18.0.4:38418 as SemaforoAyL-publisher (p2, c1, k60).
+1765623441: Client SemaforoAyL-publisher disconnected.
+1765623446: New connection from 172.18.0.4:38434 on port 1883.
+1765623446: New client connected from 172.18.0.4:38434 as SemaforoAyL-publisher (p2, c1, k60).
+1765623446: Client SemaforoAyL-publisher disconnected.
+1765623502: New connection from 172.18.0.1:34682 on port 1883.
+1765623502: New client connected from 172.18.0.1:34682 as paho210546120745461 (p2, c1, k60).
+1765623541: Client paho210546120745461 closed its connection.
+1765623580: New connection from 172.18.0.1:33132 on port 1883.
+1765623580: New client connected from 172.18.0.1:33132 as paho210546120745461 (p2, c1, k60).
+1765623603: Client paho210546120745461 disconnected.
+1765623606: New connection from 172.18.0.1:57278 on port 1883.
+1765623606: New client connected from 172.18.0.1:57278 as paho210625763216081 (p2, c1, k60).
+1765623634: Client paho210625763216081 disconnected.
+1765623637: New connection from 172.18.0.4:52176 on port 1883.
+1765623637: New client connected from 172.18.0.4:52176 as SemaforoAyL-publisher (p2, c1, k60).
+1765623637: Client SemaforoAyL-publisher disconnected.
+1765623639: New connection from 172.18.0.4:59022 on port 1883.
+1765623639: New client connected from 172.18.0.4:59022 as SemaforoAyL-publisher (p2, c1, k60).
+1765623639: Client SemaforoAyL-publisher disconnected.
+1765623642: New connection from 172.18.0.4:59026 on port 1883.
+1765623642: New client connected from 172.18.0.4:59026 as SemaforoAyL-publisher (p2, c1, k60).
+1765623642: Client SemaforoAyL-publisher disconnected.
+1765623645: New connection from 172.18.0.1:60878 on port 1883.
+1765623645: New client connected from 172.18.0.1:60878 as paho210665030544754 (p2, c1, k60).
+1765623651: Client paho210665030544754 disconnected.
+1765623653: New connection from 172.18.0.1:57248 on port 1883.
+1765623654: New client connected from 172.18.0.1:57248 as paho210673588246663 (p2, c1, k60).
+1765623665: Client paho210673588246663 disconnected.
+1765623711: New connection from 172.18.0.1:56712 on port 1883.
+1765623711: New client connected from 172.18.0.1:56712 as paho210708915400244 (p2, c1, k60).
+1765623732: Client paho210708915400244 disconnected.
+1765623733: New connection from 172.18.0.1:50878 on port 1883.
+1765623733: New client connected from 172.18.0.1:50878 as paho210731377791206 (p2, c1, k60).
+1765623735: Client paho210731377791206 disconnected.
+1765623790: New connection from 172.18.0.1:55098 on port 1883.
+1765623790: New client connected from 172.18.0.1:55098 as paho210783905286389 (p2, c1, k60).
+1765623852: Client paho210783905286389 closed its connection.
+1765623926: New connection from 172.18.0.1:49802 on port 1883.
+1765623927: New client connected from 172.18.0.1:49802 as paho210783905286389 (p1, c1, k60).
+1765623931: Client paho210783905286389 disconnected.
+1765623965: New connection from 172.18.0.4:42856 on port 1883.
+1765623966: New client connected from 172.18.0.4:42856 as SemaforoAyL-publisher (p2, c1, k60).
+1765623966: Client SemaforoAyL-publisher disconnected.
+1765623972: New connection from 172.18.0.4:34116 on port 1883.
+1765623972: New client connected from 172.18.0.4:34116 as SemaforoAyL-publisher (p2, c1, k60).
+1765623972: Client SemaforoAyL-publisher disconnected.
+1765623973: New connection from 172.18.0.4:34128 on port 1883.
+1765623974: New client connected from 172.18.0.4:34128 as SemaforoAyL-publisher (p2, c1, k60).
+1765623974: Client SemaforoAyL-publisher disconnected.
+1765623981: New connection from 172.18.0.4:47370 on port 1883.
+1765623982: New client connected from 172.18.0.4:47370 as SemaforoAyL-publisher (p2, c1, k60).
+1765623982: Client SemaforoAyL-publisher disconnected.
+1765623985: New connection from 172.18.0.4:47378 on port 1883.
+1765623986: New client connected from 172.18.0.4:47378 as SemaforoAyL-publisher (p2, c1, k60).
+1765623986: Client SemaforoAyL-publisher disconnected.
+1765623999: New connection from 172.18.0.1:38920 on port 1883.
+1765624000: New client connected from 172.18.0.1:38920 as paho210938221418748 (p2, c1, k60).
+1765624160: Client paho210938221418748 disconnected.
+1765624163: New connection from 172.18.0.4:48392 on port 1883.
+1765624163: New client connected from 172.18.0.4:48392 as SemaforoAyL-publisher (p2, c1, k60).
+1765624163: Client SemaforoAyL-publisher disconnected.
+1765624169: New connection from 172.18.0.4:44252 on port 1883.
+1765624169: New client connected from 172.18.0.4:44252 as SemaforoAyL-publisher (p2, c1, k60).
+1765624169: Client SemaforoAyL-publisher disconnected.
+1765624170: New connection from 172.18.0.4:44254 on port 1883.
+1765624171: New client connected from 172.18.0.4:44254 as SemaforoAyL-publisher (p2, c1, k60).
+1765624171: Client SemaforoAyL-publisher disconnected.
+1765624171: New connection from 172.18.0.1:38368 on port 1883.
+1765624172: New client connected from 172.18.0.1:38368 as paho211110326947682 (p2, c1, k60).
+1765624173: Client paho211110326947682 disconnected.
+1765624176: New connection from 172.18.0.1:38376 on port 1883.
+1765624176: New client connected from 172.18.0.1:38376 as paho211114478384980 (p2, c1, k60).
+1765624211: Client paho211114478384980 closed its connection.
+1765624382: Client SemaforoAyL-subscriber closed its connection.
+1765624383: mosquitto version 2.0.22 terminating
+1765624383: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765624393: mosquitto version 2.0.22 starting
+1765624393: Config loaded from /mosquitto/config/mosquitto.conf.
+1765624393: Opening ipv4 listen socket on port 1883.
+1765624393: Opening ipv6 listen socket on port 1883.
+1765624393: Opening websockets listen socket on port 9001.
+1765624393: mosquitto version 2.0.22 running
+1765624396: New connection from 172.18.0.4:36908 on port 1883.
+1765624397: New client connected from 172.18.0.4:36908 as SemaforoAyL-subscriber (p2, c0, k60).
+1765624397: New connection from 172.18.0.4:36910 on port 1883.
+1765624397: New client connected from 172.18.0.4:36910 as SemaforoAyL-publisher (p2, c1, k60).
+1765624397: Client SemaforoAyL-publisher disconnected.
+1765624436: New connection from 172.18.0.1:44184 on port 1883.
+1765624436: New client connected from 172.18.0.1:44184 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1765624439: New connection from 172.18.0.1:54286 on port 1883.
+1765624440: New client connected from 172.18.0.1:54286 as paho211220577748151 (p2, c1, k60).
+1765624443: Client paho211220577748151 disconnected.
+1765624445: New connection from 172.18.0.1:54292 on port 1883.
+1765624445: New client connected from 172.18.0.1:54292 as paho211225983670435 (p2, c1, k60).
+1765624457: Client paho211225983670435 disconnected.
+1765624462: New connection from 172.18.0.1:56510 on port 1883.
+1765624463: New client connected from 172.18.0.1:56510 as paho211243692781650 (p2, c1, k60).
+1765624478: Client paho211243692781650 disconnected.
+1765624479: New connection from 172.18.0.1:40420 on port 1883.
+1765624479: New client connected from 172.18.0.1:40420 as paho211259979654013 (p2, c1, k60).
+1765624482: Client paho211259979654013 disconnected.
+1765624483: New connection from 172.18.0.4:54474 on port 1883.
+1765624483: New client connected from 172.18.0.4:54474 as SemaforoAyL-publisher (p2, c1, k60).
+1765624483: Client SemaforoAyL-publisher disconnected.
+1765624489: New connection from 172.18.0.4:37784 on port 1883.
+1765624490: New client connected from 172.18.0.4:37784 as SemaforoAyL-publisher (p2, c1, k60).
+1765624490: Client SemaforoAyL-publisher disconnected.
+1765624493: New connection from 172.18.0.4:37792 on port 1883.
+1765624493: New client connected from 172.18.0.4:37792 as SemaforoAyL-publisher (p2, c1, k60).
+1765624493: Client SemaforoAyL-publisher disconnected.
+1765624496: New connection from 172.18.0.4:37808 on port 1883.
+1765624496: New client connected from 172.18.0.4:37808 as SemaforoAyL-publisher (p2, c1, k60).
+1765624496: Client SemaforoAyL-publisher disconnected.
+1765624543: New connection from 172.18.0.1:48802 on port 1883.
+1765624543: New client connected from 172.18.0.1:48802 as paho211324151261873 (p2, c1, k60).
+1765624551: Client paho211324151261873 disconnected.
+1765626060: New connection from 172.18.0.4:52158 on port 1883.
+1765626060: New client connected from 172.18.0.4:52158 as SemaforoAyL-publisher (p2, c1, k60).
+1765626060: Client SemaforoAyL-publisher disconnected.
+1765626067: New connection from 172.18.0.1:58676 on port 1883.
+1765626067: New client connected from 172.18.0.1:58676 as paho211561947398260 (p2, c1, k60).
+1765626069: Client paho211561947398260 disconnected.
+1765626069: New connection from 172.18.0.4:42582 on port 1883.
+1765626069: New client connected from 172.18.0.4:42582 as SemaforoAyL-publisher (p2, c1, k60).
+1765626069: Client SemaforoAyL-publisher disconnected.
+1765626071: New connection from 172.18.0.4:42588 on port 1883.
+1765626071: New client connected from 172.18.0.4:42588 as SemaforoAyL-publisher (p2, c1, k60).
+1765626071: Client SemaforoAyL-publisher disconnected.
+1765626074: New connection from 172.18.0.4:42598 on port 1883.
+1765626074: New client connected from 172.18.0.4:42598 as SemaforoAyL-publisher (p2, c1, k60).
+1765626074: Client SemaforoAyL-publisher disconnected.
+1765626076: New connection from 172.18.0.4:42614 on port 1883.
+1765626076: New client connected from 172.18.0.4:42614 as SemaforoAyL-publisher (p2, c1, k60).
+1765626076: Client SemaforoAyL-publisher disconnected.
+1765626077: New connection from 172.18.0.4:42618 on port 1883.
+1765626077: New client connected from 172.18.0.4:42618 as SemaforoAyL-publisher (p2, c1, k60).
+1765626077: Client SemaforoAyL-publisher disconnected.
+1765626077: New connection from 172.18.0.4:42630 on port 1883.
+1765626078: New client connected from 172.18.0.4:42630 as SemaforoAyL-publisher (p2, c1, k60).
+1765626078: Client SemaforoAyL-publisher disconnected.
+1765626079: New connection from 172.18.0.4:43364 on port 1883.
+1765626080: New client connected from 172.18.0.4:43364 as SemaforoAyL-publisher (p2, c1, k60).
+1765626080: Client SemaforoAyL-publisher disconnected.
+1765626081: New connection from 172.18.0.1:50828 on port 1883.
+1765626081: New client connected from 172.18.0.1:50828 as paho211576309345818 (p2, c1, k60).
+1765626084: Client paho211576309345818 disconnected.
+1765626087: New connection from 172.18.0.1:50842 on port 1883.
+1765626087: New client connected from 172.18.0.1:50842 as paho211582442504105 (p2, c1, k60).
+1765626135: Client paho211582442504105 disconnected.
+1765626194: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765626643: Client SemaforoAyL-subscriber closed its connection.
+1765626644: mosquitto version 2.0.22 terminating
+1765626644: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765626652: mosquitto version 2.0.22 starting
+1765626652: Config loaded from /mosquitto/config/mosquitto.conf.
+1765626652: Opening ipv4 listen socket on port 1883.
+1765626652: Opening ipv6 listen socket on port 1883.
+1765626652: Opening websockets listen socket on port 9001.
+1765626652: mosquitto version 2.0.22 running
+1765626656: New connection from 172.18.0.4:34570 on port 1883.
+1765626656: New client connected from 172.18.0.4:34570 as SemaforoAyL-subscriber (p2, c0, k60).
+1765626656: New connection from 172.18.0.4:34574 on port 1883.
+1765626656: New client connected from 172.18.0.4:34574 as SemaforoAyL-publisher (p2, c1, k60).
+1765626656: Client SemaforoAyL-publisher disconnected.
+1765626721: New connection from 172.18.0.1:49614 on port 1883.
+1765626721: New client connected from 172.18.0.1:49614 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1765626727: New connection from 172.18.0.1:49626 on port 1883.
+1765626728: New client connected from 172.18.0.1:49626 as paho211821926128286 (p2, c1, k60).
+1765626742: Client paho211821926128286 disconnected.
+1765626744: New connection from 172.18.0.1:33940 on port 1883.
+1765626744: New client connected from 172.18.0.1:33940 as paho211838611037352 (p2, c1, k60).
+1765626755: Client paho211838611037352 disconnected.
+1765626758: New connection from 172.18.0.4:50790 on port 1883.
+1765626758: New client connected from 172.18.0.4:50790 as SemaforoAyL-publisher (p2, c1, k60).
+1765626758: Client SemaforoAyL-publisher disconnected.
+1765626762: New connection from 172.18.0.4:40448 on port 1883.
+1765626762: New client connected from 172.18.0.4:40448 as SemaforoAyL-publisher (p2, c1, k60).
+1765626762: Client SemaforoAyL-publisher disconnected.
+1765626766: New connection from 172.18.0.4:40458 on port 1883.
+1765626766: New client connected from 172.18.0.4:40458 as SemaforoAyL-publisher (p2, c1, k60).
+1765626766: Client SemaforoAyL-publisher disconnected.
+1765626772: New connection from 172.18.0.4:34754 on port 1883.
+1765626772: New client connected from 172.18.0.4:34754 as SemaforoAyL-publisher (p2, c1, k60).
+1765626772: Client SemaforoAyL-publisher disconnected.
+1765626779: New connection from 172.18.0.4:47892 on port 1883.
+1765626779: New client connected from 172.18.0.4:47892 as SemaforoAyL-publisher (p2, c1, k60).
+1765626779: Client SemaforoAyL-publisher disconnected.
+1765626781: New connection from 172.18.0.4:47900 on port 1883.
+1765626781: New client connected from 172.18.0.4:47900 as SemaforoAyL-publisher (p2, c1, k60).
+1765626781: Client SemaforoAyL-publisher disconnected.
+1765626808: New connection from 172.18.0.1:54036 on port 1883.
+1765626809: New client connected from 172.18.0.1:54036 as paho211902961353790 (p2, c1, k60).
+1765626810: Client paho211902961353790 disconnected.
+1765626884: Client ESP32_TL_001_885721B17478 has exceeded timeout, disconnecting.
+1765628453: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765628869: New connection from 172.18.0.1:56010 on port 1883.
+1765628869: New client connected from 172.18.0.1:56010 as paho213942260868417 (p2, c1, k60).
+1765628883: Client paho213942260868417 disconnected.
+1765628888: New connection from 172.18.0.4:58442 on port 1883.
+1765628889: New client connected from 172.18.0.4:58442 as SemaforoAyL-publisher (p2, c1, k60).
+1765628889: Client SemaforoAyL-publisher disconnected.
+1765628893: New connection from 172.18.0.1:54530 on port 1883.
+1765628894: New client connected from 172.18.0.1:54530 as paho213966622740743 (p2, c1, k60).
+1765628907: Client paho213966622740743 disconnected.
+1765628918: New connection from 172.18.0.1:42614 on port 1883.
+1765628919: New client connected from 172.18.0.1:42614 as paho213991531874829 (p2, c1, k60).
+1765628923: Client paho213991531874829 disconnected.
+1765629056: New connection from 172.18.0.1:46626 on port 1883.
+1765629057: New client connected from 172.18.0.1:46626 as paho214129698197203 (p2, c1, k60).
+1765629074: Client paho214129698197203 disconnected.
+1765629078: New connection from 172.18.0.1:57192 on port 1883.
+1765629078: New client connected from 172.18.0.1:57192 as paho214151165916411 (p2, c1, k60).
+1765629104: Client paho214151165916411 disconnected.
+1765629218: New connection from 172.18.0.1:48040 on port 1883.
+1765629219: New client connected from 172.18.0.1:48040 as paho214291543350521 (p2, c1, k60).
+1765629220: Client paho214291543350521 disconnected.
+1765629456: New connection from 172.18.0.1:46120 on port 1883.
+1765629456: New client connected from 172.18.0.1:46120 as paho214528942304779 (p2, c1, k60).
+1765629459: Client paho214528942304779 disconnected.
+1765629589: New connection from 172.18.0.1:53064 on port 1883.
+1765629589: New client connected from 172.18.0.1:53064 as paho214662374015456 (p2, c1, k60).
+1765629611: Client paho214662374015456 disconnected.
+1765629631: New connection from 172.18.0.1:52792 on port 1883.
+1765629632: New client connected from 172.18.0.1:52792 as paho214704694212091 (p2, c1, k60).
+1765629641: Client paho214704694212091 disconnected.
+1765629644: New connection from 172.18.0.1:43486 on port 1883.
+1765629644: New client connected from 172.18.0.1:43486 as paho214716862729309 (p2, c1, k60).
+1765629646: Client paho214716862729309 disconnected.
+1765630254: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765632055: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765633466: New connection from 172.18.0.1:41810 on port 1883.
+1765633466: New client connected from 172.18.0.1:41810 as paho217128533598243 (p2, c1, k60).
+1765633469: Client paho217128533598243 disconnected.
+1765633480: New connection from 172.18.0.1:38116 on port 1883.
+1765633480: New client connected from 172.18.0.1:38116 as paho217142413795801 (p2, c1, k60).
+1765633483: Client paho217142413795801 disconnected.
+1765633855: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765635656: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765635862: New connection from 172.18.0.1:37832 on port 1883.
+1765635862: New client connected from 172.18.0.1:37832 as paho218287835226698 (p2, c1, k60).
+1765635869: Client paho218287835226698 disconnected.
+1765635873: New connection from 172.18.0.1:33400 on port 1883.
+1765635873: New client connected from 172.18.0.1:33400 as paho218298826024596 (p2, c1, k60).
+1765635874: Client paho218298826024596 disconnected.
+1765635981: New connection from 172.18.0.4:56880 on port 1883.
+1765635981: New client connected from 172.18.0.4:56880 as SemaforoAyL-publisher (p2, c1, k60).
+1765635981: Client SemaforoAyL-publisher disconnected.
+1765635986: New connection from 172.18.0.4:56888 on port 1883.
+1765635986: New client connected from 172.18.0.4:56888 as SemaforoAyL-publisher (p2, c1, k60).
+1765635986: Client SemaforoAyL-publisher disconnected.
+1765635993: New connection from 172.18.0.1:44022 on port 1883.
+1765635993: New client connected from 172.18.0.1:44022 as paho218375353639379 (p2, c1, k60).
+1765636000: Client paho218375353639379 disconnected.
+1765637457: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765637504: New connection from 172.18.0.1:37056 on port 1883.
+1765637505: New client connected from 172.18.0.1:37056 as paho219717822100850 (p2, c1, k60).
+1765637518: Client paho219717822100850 disconnected.
+1765637540: New connection from 172.18.0.1:49634 on port 1883.
+1765637540: New client connected from 172.18.0.1:49634 as paho219753174535072 (p2, c1, k60).
+1765637543: Client paho219753174535072 disconnected.
+1765637584: New connection from 172.18.0.1:43874 on port 1883.
+1765637584: New client connected from 172.18.0.1:43874 as paho219797277332050 (p2, c1, k60).
+1765637593: Client paho219797277332050 disconnected.
+1765638658: New connection from 172.18.0.1:52648 on port 1883.
+1765638659: New client connected from 172.18.0.1:52648 as paho220384948839295 (p2, c1, k60).
+1765638663: Client paho220384948839295 disconnected.
+1765638665: New connection from 172.18.0.1:52650 on port 1883.
+1765638665: New client connected from 172.18.0.1:52650 as paho220391274984317 (p2, c1, k60).
+1765638669: Client paho220391274984317 disconnected.
+1765638674: New connection from 172.18.0.1:40288 on port 1883.
+1765638674: New client connected from 172.18.0.1:40288 as paho220400218599881 (p2, c1, k60).
+1765638681: Client paho220400218599881 disconnected.
+1765639258: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765639880: New connection from 172.18.0.1:51764 on port 1883.
+1765639880: New client connected from 172.18.0.1:51764 as paho221324972217236 (p2, c1, k60).
+1765639883: Client paho221324972217236 disconnected.
+1765640010: New connection from 172.18.0.1:37900 on port 1883.
+1765640010: New client connected from 172.18.0.1:37900 as paho221455453213800 (p2, c1, k60).
+1765640014: Client paho221455453213800 disconnected.
+1765640037: New connection from 172.18.0.1:36506 on port 1883.
+1765640037: New client connected from 172.18.0.1:36506 as paho221482183465522 (p2, c1, k60).
+1765640039: Client paho221482183465522 disconnected.
+1765640044: New connection from 172.18.0.1:38716 on port 1883.
+1765640044: New client connected from 172.18.0.1:38716 as paho221489042735097 (p2, c1, k60).
+1765640048: Client paho221489042735097 disconnected.
+1765640054: New connection from 172.18.0.1:38452 on port 1883.
+1765640054: New client connected from 172.18.0.1:38452 as paho221499199324743 (p2, c1, k60).
+1765640056: Client paho221499199324743 disconnected.
+1765640177: New connection from 172.18.0.1:46010 on port 1883.
+1765640177: New client connected from 172.18.0.1:46010 as paho221621919935154 (p2, c1, k60).
+1765640202: Client paho221621919935154 disconnected.
+1765640214: New connection from 172.18.0.1:38512 on port 1883.
+1765640214: New client connected from 172.18.0.1:38512 as paho221659528444206 (p2, c1, k60).
+1765640305: Client paho221659528444206 has exceeded timeout, disconnecting.
+1765641059: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765642860: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765643164: New connection from 172.18.0.1:52700 on port 1883.
+1765643164: New client connected from 172.18.0.1:52700 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1765643266: New connection from 172.18.0.1:33812 on port 1883.
+1765643267: New client connected from 172.18.0.1:33812 as paho223787392629083 (p2, c1, k60).
+1765643306: Client paho223787392629083 disconnected.
+1765643337: New connection from 172.18.0.1:41430 on port 1883.
+1765643338: New client connected from 172.18.0.1:41430 as paho223858512971565 (p2, c1, k60).
+1765643405: Client paho223858512971565 disconnected.
+1765643412: New connection from 172.18.0.4:40258 on port 1883.
+1765643412: New client connected from 172.18.0.4:40258 as SemaforoAyL-publisher (p2, c1, k60).
+1765643412: Client SemaforoAyL-publisher disconnected.
+1765643417: New connection from 172.18.0.4:60112 on port 1883.
+1765643417: New client connected from 172.18.0.4:60112 as SemaforoAyL-publisher (p2, c1, k60).
+1765643417: Client SemaforoAyL-publisher disconnected.
+1765643432: New connection from 172.18.0.4:35984 on port 1883.
+1765643432: New client connected from 172.18.0.4:35984 as SemaforoAyL-publisher (p2, c1, k60).
+1765643432: Client SemaforoAyL-publisher disconnected.
+1765643440: New connection from 172.18.0.4:54382 on port 1883.
+1765643440: New client connected from 172.18.0.4:54382 as SemaforoAyL-publisher (p2, c1, k60).
+1765643440: Client SemaforoAyL-publisher disconnected.
+1765643444: New connection from 172.18.0.4:54384 on port 1883.
+1765643444: New client connected from 172.18.0.4:54384 as SemaforoAyL-publisher (p2, c1, k60).
+1765643444: Client SemaforoAyL-publisher disconnected.
+1765643448: New connection from 172.18.0.1:49560 on port 1883.
+1765643448: New client connected from 172.18.0.1:49560 as paho223968699295268 (p2, c1, k60).
+1765643482: Client paho223968699295268 disconnected.
+1765643548: Client SemaforoAyL-subscriber closed its connection.
+1765643549: mosquitto version 2.0.22 terminating
+1765643549: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765643581: mosquitto version 2.0.22 starting
+1765643581: Config loaded from /mosquitto/config/mosquitto.conf.
+1765643581: Opening ipv4 listen socket on port 1883.
+1765643581: Opening ipv6 listen socket on port 1883.
+1765643581: Opening websockets listen socket on port 9001.
+1765643581: mosquitto version 2.0.22 running
+1765643581: New connection from 172.18.0.1:43894 on port 1883.
+1765643581: New client connected from 172.18.0.1:43894 as ESP32_TL_001_885721B17478 (p2, c1, k15).
+1765643584: New connection from 172.18.0.4:43412 on port 1883.
+1765643585: New client connected from 172.18.0.4:43412 as SemaforoAyL-subscriber (p2, c0, k60).
+1765643585: New connection from 172.18.0.4:43424 on port 1883.
+1765643585: New client connected from 172.18.0.4:43424 as SemaforoAyL-publisher (p2, c1, k60).
+1765643585: Client SemaforoAyL-publisher disconnected.
+1765643634: Client SemaforoAyL-subscriber closed its connection.
+1765643634: mosquitto version 2.0.22 terminating
+1765643634: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765729276: mosquitto version 2.0.22 starting
+1765729276: Config loaded from /mosquitto/config/mosquitto.conf.
+1765729276: Opening ipv4 listen socket on port 1883.
+1765729276: Opening ipv6 listen socket on port 1883.
+1765729276: Opening websockets listen socket on port 9001.
+1765729276: mosquitto version 2.0.22 running
+1765729279: New connection from 172.18.0.4:40502 on port 1883.
+1765729279: New client connected from 172.18.0.4:40502 as SemaforoAyL-subscriber (p2, c0, k60).
+1765729279: New connection from 172.18.0.4:40504 on port 1883.
+1765729280: New client connected from 172.18.0.4:40504 as SemaforoAyL-publisher (p2, c1, k60).
+1765729280: Client SemaforoAyL-publisher disconnected.
+1765729326: New connection from 172.18.0.1:37994 on port 1883.
+1765729326: New client connected from 172.18.0.1:37994 as paho24877554004619 (p2, c1, k60).
+1765729676: Client paho24877554004619 closed its connection.
+1765730309: New connection from 172.18.0.1:60014 on port 1883.
+1765730310: New client connected from 172.18.0.1:60014 as paho25861239288425 (p2, c1, k60).
+1765730356: Client paho25861239288425 closed its connection.
+1765731028: New connection from 172.18.0.1:48186 on port 1883.
+1765731029: New client connected from 172.18.0.1:48186 as paho26580278694659 (p2, c1, k60).
+1765731051: Client paho26580278694659 disconnected.
+1765731053: New connection from 172.18.0.1:48866 on port 1883.
+1765731053: New client connected from 172.18.0.1:48866 as paho26604677956431 (p2, c1, k60).
+1765731076: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765731090: Client paho26604677956431 closed its connection.
+1765731300: New connection from 172.18.0.1:44898 on port 1883.
+1765731300: New client connected from 172.18.0.1:44898 as paho26851938466236 (p2, c1, k60).
+1765731307: Client paho26851938466236 disconnected.
+1765731309: New connection from 172.18.0.1:43142 on port 1883.
+1765731310: New client connected from 172.18.0.1:43142 as paho26861179765231 (p2, c1, k60).
+1765731317: Client paho26861179765231 disconnected.
+1765731319: New connection from 172.18.0.1:35018 on port 1883.
+1765731319: New client connected from 172.18.0.1:35018 as paho26870709486468 (p2, c1, k60).
+1765731330: Client paho26870709486468 disconnected.
+1765731368: New connection from 172.18.0.1:57106 on port 1883.
+1765731368: New client connected from 172.18.0.1:57106 as paho26919892462525 (p2, c1, k60).
+1765731370: Client paho26919892462525 disconnected.
+1765731372: New connection from 172.18.0.1:57116 on port 1883.
+1765731373: New client connected from 172.18.0.1:57116 as paho26924185087487 (p2, c1, k60).
+1765731434: Client paho26924185087487 closed its connection.
+1765732877: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765733223: New connection from 172.18.0.1:56420 on port 1883.
+1765733223: New client connected from 172.18.0.1:56420 as paho28774508229463 (p2, c1, k60).
+1765733225: Client paho28774508229463 disconnected.
+1765733230: New connection from 172.18.0.1:60546 on port 1883.
+1765733231: New client connected from 172.18.0.1:60546 as paho28782305001724 (p2, c1, k60).
+1765733235: Client paho28782305001724 disconnected.
+1765733242: New connection from 172.18.0.1:45586 on port 1883.
+1765733242: New client connected from 172.18.0.1:45586 as paho28793948985617 (p2, c1, k60).
+1765733272: Client paho28793948985617 disconnected.
+1765733273: New connection from 172.18.0.1:46454 on port 1883.
+1765733274: New client connected from 172.18.0.1:46454 as paho28825224632645 (p2, c1, k60).
+1765733275: Client paho28825224632645 disconnected.
+1765733417: New connection from 172.18.0.1:52324 on port 1883.
+1765733417: New client connected from 172.18.0.1:52324 as paho28968810552352 (p2, c1, k60).
+1765733419: Client paho28968810552352 disconnected.
+1765733435: New connection from 172.18.0.1:39496 on port 1883.
+1765733435: New client connected from 172.18.0.1:39496 as paho28987180303704 (p2, c1, k60).
+1765733438: Client paho28987180303704 disconnected.
+1765733446: New connection from 172.18.0.1:56998 on port 1883.
+1765733446: New client connected from 172.18.0.1:56998 as paho28997680361449 (p2, c1, k60).
+1765733448: Client paho28997680361449 disconnected.
+1765733522: New connection from 172.18.0.1:50280 on port 1883.
+1765733523: New client connected from 172.18.0.1:50280 as paho29074368572261 (p2, c1, k60).
+1765733524: Client paho29074368572261 disconnected.
+1765733545: New connection from 172.18.0.1:41554 on port 1883.
+1765733546: New client connected from 172.18.0.1:41554 as paho29097344259365 (p2, c1, k60).
+1765733556: Client paho29097344259365 disconnected.
+1765733558: New connection from 172.18.0.1:58158 on port 1883.
+1765733558: New client connected from 172.18.0.1:58158 as paho29110069174207 (p2, c1, k60).
+1765733564: Client paho29110069174207 disconnected.
+1765733714: New connection from 172.18.0.1:37876 on port 1883.
+1765733714: New client connected from 172.18.0.1:37876 as paho29265592394457 (p2, c1, k60).
+1765733739: Client paho29265592394457 disconnected.
+1765733751: New connection from 172.18.0.1:36814 on port 1883.
+1765733751: New client connected from 172.18.0.1:36814 as paho29302600101628 (p2, c1, k60).
+1765733758: Client paho29302600101628 disconnected.
+1765733880: New connection from 172.18.0.1:42072 on port 1883.
+1765733880: New client connected from 172.18.0.1:42072 as paho29431722396084 (p2, c1, k60).
+1765733882: Client paho29431722396084 disconnected.
+1765733885: New connection from 172.18.0.1:42078 on port 1883.
+1765733885: New client connected from 172.18.0.1:42078 as paho29436910382008 (p2, c1, k60).
+1765733887: Client paho29436910382008 disconnected.
+1765733904: New connection from 172.18.0.1:49094 on port 1883.
+1765733904: New client connected from 172.18.0.1:49094 as paho29455811537087 (p2, c1, k60).
+1765734015: Client paho29455811537087 closed its connection.
+1765734145: New connection from 172.18.0.1:56458 on port 1883.
+1765734145: New client connected from 172.18.0.1:56458 as paho29697121071954 (p2, c1, k60).
+1765734147: Client paho29697121071954 disconnected.
+1765734180: New connection from 172.18.0.1:34012 on port 1883.
+1765734181: New client connected from 172.18.0.1:34012 as paho29732412876374 (p2, c1, k60).
+1765734182: Client paho29732412876374 disconnected.
+1765734201: New connection from 172.18.0.1:44052 on port 1883.
+1765734202: New client connected from 172.18.0.1:44052 as paho29753451842164 (p2, c1, k60).
+1765734204: Client paho29753451842164 disconnected.
+1765734235: New connection from 172.18.0.1:42114 on port 1883.
+1765734235: New client connected from 172.18.0.1:42114 as paho29787091528460 (p2, c1, k60).
+1765734238: Client paho29787091528460 disconnected.
+1765734383: New connection from 172.18.0.1:56444 on port 1883.
+1765734383: New client connected from 172.18.0.1:56444 as paho29935110093718 (p2, c1, k60).
+1765734385: Client paho29935110093718 disconnected.
+1765734594: New connection from 172.18.0.4:42520 on port 1883.
+1765734594: New client connected from 172.18.0.4:42520 as SemaforoAyL-publisher (p2, c1, k60).
+1765734594: Client SemaforoAyL-publisher disconnected.
+1765734678: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765734692: New connection from 172.18.0.1:35632 on port 1883.
+1765734693: New client connected from 172.18.0.1:35632 as paho30244248115923 (p2, c1, k60).
+1765734697: Client paho30244248115923 disconnected.
+1765734848: New connection from 172.18.0.1:40116 on port 1883.
+1765734848: New client connected from 172.18.0.1:40116 as paho30400175687247 (p2, c1, k60).
+1765734850: Client paho30400175687247 disconnected.
+1765734856: New connection from 172.18.0.1:46278 on port 1883.
+1765734857: New client connected from 172.18.0.1:46278 as paho30408290020747 (p2, c1, k60).
+1765734858: Client paho30408290020747 disconnected.
+1765734859: New connection from 172.18.0.1:46280 on port 1883.
+1765734859: New client connected from 172.18.0.1:46280 as paho30411143759030 (p2, c1, k60).
+1765734860: Client paho30411143759030 disconnected.
+1765734864: New connection from 172.18.0.1:46292 on port 1883.
+1765734864: New client connected from 172.18.0.1:46292 as paho30416155269856 (p2, c1, k60).
+1765734866: Client paho30416155269856 disconnected.
+1765734876: New connection from 172.18.0.1:43200 on port 1883.
+1765734877: New client connected from 172.18.0.1:43200 as paho30428281127528 (p2, c1, k60).
+1765734879: Client paho30428281127528 disconnected.
+1765734909: New connection from 172.18.0.1:41358 on port 1883.
+1765734909: New client connected from 172.18.0.1:41358 as paho30461034878887 (p2, c1, k60).
+1765734911: Client paho30461034878887 disconnected.
+1765734912: New connection from 172.18.0.1:41366 on port 1883.
+1765734912: New client connected from 172.18.0.1:41366 as paho30464088312930 (p2, c1, k60).
+1765734915: Client paho30464088312930 disconnected.
+1765734917: New connection from 172.18.0.1:35916 on port 1883.
+1765734917: New client connected from 172.18.0.1:35916 as paho30469264417506 (p2, c1, k60).
+1765734919: Client paho30469264417506 disconnected.
+1765734927: New connection from 172.18.0.1:58604 on port 1883.
+1765734928: New client connected from 172.18.0.1:58604 as paho30479394895416 (p2, c1, k60).
+1765734929: Client paho30479394895416 disconnected.
+1765734943: New connection from 172.18.0.1:59812 on port 1883.
+1765734943: New client connected from 172.18.0.1:59812 as paho30495048367876 (p2, c1, k60).
+1765734945: Client paho30495048367876 disconnected.
+1765735047: New connection from 172.18.0.1:60150 on port 1883.
+1765735047: New client connected from 172.18.0.1:60150 as paho30598688720629 (p2, c1, k60).
+1765735052: Client paho30598688720629 disconnected.
+1765735086: New connection from 172.18.0.1:54360 on port 1883.
+1765735086: New client connected from 172.18.0.1:54360 as paho30638026060654 (p2, c1, k60).
+1765735088: Client paho30638026060654 disconnected.
+1765735089: New connection from 172.18.0.1:54370 on port 1883.
+1765735089: New client connected from 172.18.0.1:54370 as paho30641223593412 (p2, c1, k60).
+1765735092: Client paho30641223593412 disconnected.
+1765735152: New connection from 172.18.0.1:59470 on port 1883.
+1765735152: New client connected from 172.18.0.1:59470 as paho30704025687070 (p2, c1, k60).
+1765735156: Client paho30704025687070 disconnected.
+1765735159: New connection from 172.18.0.1:57618 on port 1883.
+1765735159: New client connected from 172.18.0.1:57618 as paho30711050552633 (p2, c1, k60).
+1765735162: Client paho30711050552633 disconnected.
+1765735180: New connection from 172.18.0.1:47138 on port 1883.
+1765735180: New client connected from 172.18.0.1:47138 as paho30731798642040 (p2, c1, k60).
+1765735183: Client paho30731798642040 disconnected.
+1765735184: New connection from 172.18.0.1:47154 on port 1883.
+1765735184: New client connected from 172.18.0.1:47154 as paho30736107020704 (p2, c1, k60).
+1765735187: Client paho30736107020704 disconnected.
+1765735197: New connection from 172.18.0.1:33656 on port 1883.
+1765735198: New client connected from 172.18.0.1:33656 as paho30749467916503 (p2, c1, k60).
+1765735201: Client paho30749467916503 disconnected.
+1765735216: New connection from 172.18.0.1:48220 on port 1883.
+1765735216: New client connected from 172.18.0.1:48220 as paho30767591362272 (p2, c1, k60).
+1765735219: Client paho30767591362272 disconnected.
+1765735221: New connection from 172.18.0.1:48232 on port 1883.
+1765735221: New client connected from 172.18.0.1:48232 as paho30772933233287 (p2, c1, k60).
+1765735224: Client paho30772933233287 disconnected.
+1765735249: New connection from 172.18.0.1:50638 on port 1883.
+1765735249: New client connected from 172.18.0.1:50638 as paho30801182330265 (p2, c1, k60).
+1765735452: Client paho30801182330265 disconnected.
+1765735461: New connection from 172.18.0.1:49000 on port 1883.
+1765735462: New client connected from 172.18.0.1:49000 as paho31013449207892 (p2, c1, k60).
+1765735464: Client paho31013449207892 disconnected.
+1765735465: New connection from 172.18.0.1:49006 on port 1883.
+1765735465: New client connected from 172.18.0.1:49006 as paho31017128963468 (p2, c1, k60).
+1765735467: Client paho31017128963468 disconnected.
+1765735491: New connection from 172.18.0.1:44696 on port 1883.
+1765735491: New client connected from 172.18.0.1:44696 as paho31043254191183 (p2, c1, k60).
+1765735493: Client paho31043254191183 disconnected.
+1765735496: New connection from 172.18.0.1:35178 on port 1883.
+1765735497: New client connected from 172.18.0.1:35178 as paho31048424780785 (p2, c1, k60).
+1765735498: Client paho31048424780785 disconnected.
+1765735503: New connection from 172.18.0.1:35184 on port 1883.
+1765735503: New client connected from 172.18.0.1:35184 as paho31055157077338 (p2, c1, k60).
+1765735505: Client paho31055157077338 disconnected.
+1765735516: New connection from 172.18.0.1:54558 on port 1883.
+1765735516: New client connected from 172.18.0.1:54558 as paho31067926282096 (p2, c1, k60).
+1765735517: Client paho31067926282096 disconnected.
+1765735543: New connection from 172.18.0.1:57132 on port 1883.
+1765735543: New client connected from 172.18.0.1:57132 as paho31095000161545 (p2, c1, k60).
+1765735545: Client paho31095000161545 disconnected.
+1765735546: New connection from 172.18.0.1:37576 on port 1883.
+1765735546: New client connected from 172.18.0.1:37576 as paho31098157542569 (p2, c1, k60).
+1765735547: Client paho31098157542569 disconnected.
+1765735731: New connection from 172.18.0.1:36110 on port 1883.
+1765735731: New client connected from 172.18.0.1:36110 as paho31282667271581 (p2, c1, k60).
+1765735737: Client paho31282667271581 disconnected.
+1765735746: New connection from 172.18.0.1:37892 on port 1883.
+1765735746: New client connected from 172.18.0.1:37892 as paho31297654131167 (p2, c1, k60).
+1765735747: Client paho31297654131167 disconnected.
+1765735761: New connection from 172.18.0.4:32878 on port 1883.
+1765735761: New client connected from 172.18.0.4:32878 as SemaforoAyL-publisher (p2, c1, k60).
+1765735761: Client SemaforoAyL-publisher disconnected.
+1765735784: New connection from 172.18.0.1:38604 on port 1883.
+1765735785: New client connected from 172.18.0.1:38604 as paho31336569354941 (p2, c1, k60).
+1765735786: Client paho31336569354941 disconnected.
+1765735792: New connection from 172.18.0.1:42522 on port 1883.
+1765735792: New client connected from 172.18.0.1:42522 as paho31343889701583 (p2, c1, k60).
+1765735793: Client paho31343889701583 disconnected.
+1765735796: New connection from 172.18.0.1:39504 on port 1883.
+1765735796: New client connected from 172.18.0.1:39504 as paho31347646612881 (p2, c1, k60).
+1765735797: Client paho31347646612881 disconnected.
+1765736274: New connection from 172.18.0.1:39200 on port 1883.
+1765736274: New client connected from 172.18.0.1:39200 as paho31826061138098 (p2, c1, k60).
+1765736275: Client paho31826061138098 disconnected.
+1765736277: New connection from 172.18.0.1:60834 on port 1883.
+1765736277: New client connected from 172.18.0.1:60834 as paho31828643040850 (p2, c1, k60).
+1765736278: Client paho31828643040850 disconnected.
+1765736298: New connection from 172.18.0.4:60382 on port 1883.
+1765736298: New client connected from 172.18.0.4:60382 as SemaforoAyL-publisher (p2, c1, k60).
+1765736298: Client SemaforoAyL-publisher disconnected.
+1765736299: New connection from 172.18.0.1:46398 on port 1883.
+1765736299: New client connected from 172.18.0.1:46398 as paho31851071803597 (p2, c1, k60).
+1765736301: Client paho31851071803597 disconnected.
+1765736302: New connection from 172.18.0.1:46412 on port 1883.
+1765736302: New client connected from 172.18.0.1:46412 as paho31853834220468 (p2, c1, k60).
+1765736304: Client paho31853834220468 disconnected.
+1765736479: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765736522: New connection from 172.18.0.1:44142 on port 1883.
+1765736522: New client connected from 172.18.0.1:44142 as paho32073734706334 (p2, c1, k60).
+1765736523: Client paho32073734706334 disconnected.
+1765736542: New connection from 172.18.0.1:58824 on port 1883.
+1765736543: New client connected from 172.18.0.1:58824 as paho32094386963994 (p2, c1, k60).
+1765736567: Client paho32094386963994 disconnected.
+1765736599: New connection from 172.18.0.1:54142 on port 1883.
+1765736599: New client connected from 172.18.0.1:54142 as paho32150689053336 (p2, c1, k60).
+1765736604: Client paho32150689053336 disconnected.
+1765736609: New connection from 172.18.0.4:44796 on port 1883.
+1765736609: New client connected from 172.18.0.4:44796 as SemaforoAyL-publisher (p2, c1, k60).
+1765736609: Client SemaforoAyL-publisher disconnected.
+1765736610: New connection from 172.18.0.4:44800 on port 1883.
+1765736611: New client connected from 172.18.0.4:44800 as SemaforoAyL-publisher (p2, c1, k60).
+1765736611: Client SemaforoAyL-publisher disconnected.
+1765736614: New connection from 172.18.0.1:38928 on port 1883.
+1765736614: New client connected from 172.18.0.1:38928 as paho32166233963785 (p2, c1, k60).
+1765736636: Client paho32166233963785 disconnected.
+1765736638: New connection from 172.18.0.1:41464 on port 1883.
+1765736638: New client connected from 172.18.0.1:41464 as paho32190052054617 (p2, c1, k60).
+1765736642: Client paho32190052054617 disconnected.
+1765736647: New connection from 172.18.0.1:59518 on port 1883.
+1765736648: New client connected from 172.18.0.1:59518 as paho32199424301570 (p2, c1, k60).
+1765736649: Client paho32199424301570 disconnected.
+1765736652: New connection from 172.18.0.1:59534 on port 1883.
+1765736653: New client connected from 172.18.0.1:59534 as paho32204518893003 (p2, c1, k60).
+1765736654: Client paho32204518893003 disconnected.
+1765736662: New connection from 172.18.0.1:43400 on port 1883.
+1765736663: New client connected from 172.18.0.1:43400 as paho32214388732160 (p2, c1, k60).
+1765736664: Client paho32214388732160 disconnected.
+1765736672: New connection from 172.18.0.1:46070 on port 1883.
+1765736672: New client connected from 172.18.0.1:46070 as paho32224324220690 (p2, c1, k60).
+1765736675: Client paho32224324220690 disconnected.
+1765736676: New connection from 172.18.0.1:56724 on port 1883.
+1765736677: New client connected from 172.18.0.1:56724 as paho32228442982207 (p2, c1, k60).
+1765736679: Client paho32228442982207 disconnected.
+1765736684: New connection from 172.18.0.1:56728 on port 1883.
+1765736685: New client connected from 172.18.0.1:56728 as paho32236427555657 (p2, c1, k60).
+1765736685: Client paho32236427555657 disconnected.
+1765736989: New connection from 172.18.0.1:57464 on port 1883.
+1765736989: New client connected from 172.18.0.1:57464 as paho32540949431619 (p2, c1, k60).
+1765736990: Client paho32540949431619 disconnected.
+1765737086: New connection from 172.18.0.1:53510 on port 1883.
+1765737086: New client connected from 172.18.0.1:53510 as paho32637832546128 (p2, c1, k60).
+1765737088: Client paho32637832546128 disconnected.
+1765737106: New connection from 172.18.0.1:59826 on port 1883.
+1765737106: New client connected from 172.18.0.1:59826 as paho32658212169754 (p2, c1, k60).
+1765737110: Client paho32658212169754 disconnected.
+1765738280: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765739942: New connection from 172.18.0.1:55452 on port 1883.
+1765739943: New client connected from 172.18.0.1:55452 as paho35449806543513 (p2, c1, k60).
+1765739945: Client paho35449806543513 disconnected.
+1765740028: New connection from 172.18.0.1:37144 on port 1883.
+1765740028: New client connected from 172.18.0.1:37144 as paho35534959941626 (p2, c1, k60).
+1765740029: Client paho35534959941626 disconnected.
+1765740081: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765740341: New connection from 172.18.0.1:36308 on port 1883.
+1765740342: New client connected from 172.18.0.1:36308 as paho35754418497275 (p2, c1, k60).
+1765740345: Client paho35754418497275 disconnected.
+1765740354: New connection from 172.18.0.1:46362 on port 1883.
+1765740354: New client connected from 172.18.0.1:46362 as paho35766965560758 (p2, c1, k60).
+1765740366: Client paho35766965560758 disconnected.
+1765740398: New connection from 172.18.0.1:45978 on port 1883.
+1765740398: New client connected from 172.18.0.1:45978 as paho35811060713815 (p2, c1, k60).
+1765740400: Client paho35811060713815 disconnected.
+1765741882: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765743683: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765745384: New connection from 172.18.0.1:54976 on port 1883.
+1765745385: New client connected from 172.18.0.1:54976 as paho40797562940941 (p2, c1, k60).
+1765745390: Client paho40797562940941 disconnected.
+1765745395: New connection from 172.18.0.1:54866 on port 1883.
+1765745395: New client connected from 172.18.0.1:54866 as paho40807798747546 (p2, c1, k60).
+1765745416: Client paho40807798747546 disconnected.
+1765745484: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765747285: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765749086: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1765750395: New connection from 172.18.0.1:37758 on port 1883.
+1765750395: New client connected from 172.18.0.1:37758 as paho44935710764820 (p2, c1, k60).
+1765750401: Client paho44935710764820 disconnected.
+1765750403: New connection from 172.18.0.1:37774 on port 1883.
+1765750403: New client connected from 172.18.0.1:37774 as paho44943412156751 (p2, c1, k60).
+1765750408: Client paho44943412156751 disconnected.
+1765750431: New connection from 172.18.0.1:41296 on port 1883.
+1765750432: New client connected from 172.18.0.1:41296 as paho44971827363267 (p2, c1, k60).
+1765750438: Client paho44971827363267 disconnected.
+1765750446: New connection from 172.18.0.1:43890 on port 1883.
+1765750446: New client connected from 172.18.0.1:43890 as paho44986177355868 (p2, c1, k60).
+1765750452: Client paho44986177355868 disconnected.
+1765750459: New connection from 172.18.0.1:58700 on port 1883.
+1765750459: New client connected from 172.18.0.1:58700 as paho44999642010416 (p2, c1, k60).
+1765750463: Client paho44999642010416 disconnected.
+1765750504: New connection from 172.18.0.1:43640 on port 1883.
+1765750504: New client connected from 172.18.0.1:43640 as paho45044447683656 (p2, c1, k60).
+1765750506: Client paho45044447683656 disconnected.
+1765750611: Client SemaforoAyL-subscriber closed its connection.
+1765750612: mosquitto version 2.0.22 terminating
+1765750612: Saving in-memory database to /mosquitto/data//mosquitto.db.

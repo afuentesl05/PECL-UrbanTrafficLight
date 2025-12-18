@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ========= Material tokens (DARK) ========= -->
+    <color name="md_primary">#B7A0FF</color>
+    <color name="md_on_primary">#1B0B33</color>
+    <color name="md_primary_container">#3A2B6B</color>
+    <color name="md_on_primary_container">#EFEAFF</color>
+
+    <color name="md_secondary">#55D6E9</color>
+    <color name="md_on_secondary">#001A1E</color>
+
+    <color name="md_surface">#0B0C13</color>
+    <color name="md_on_surface">#E9E9F3</color>
+    <color name="md_surface_variant">#151726</color>
+    <color name="md_on_surface_variant">#B7B9CC</color>
+
+    <color name="md_outline">#2A2C3D</color>
+    <color name="md_error">#F2B8B5</color>
+    <color name="md_on_error">#601410</color>
+
+    <!-- ========= Legacy (para XML antiguos) ========= -->
+    <color name="tl_background">@color/md_surface</color>
+    <color name="tl_card">@color/md_surface_variant</color>
+    <color name="tl_accent">@color/md_primary</color>
+    <color name="tl_accent_dark">#8C72FF</color>
+    <color name="tl_text_primary">@color/md_on_surface</color>
+    <color name="tl_text_secondary">@color/md_on_surface_variant</color>
+
+    <!-- Semáforo (fijos) -->
+    <color name="tl_green">#22C55E</color>
+    <color name="tl_red">#EF4444</color>
+    <color name="tl_amber">#F59E0B</color>
+
+</resources>

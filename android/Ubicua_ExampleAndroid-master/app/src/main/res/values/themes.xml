@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base (DayNight) -->
+    <style name="Base.Theme.AppPECL3" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Colores principales -->
+        <item name="colorPrimary">@color/md_primary</item>
+        <item name="colorOnPrimary">@color/md_on_primary</item>
+        <item name="colorPrimaryContainer">@color/md_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/md_on_primary_container</item>
+
+        <item name="colorSecondary">@color/md_secondary</item>
+        <item name="colorOnSecondary">@color/md_on_secondary</item>
+
+        <!-- Superficies -->
+        <item name="colorSurface">@color/md_surface</item>
+        <item name="colorOnSurface">@color/md_on_surface</item>
+        <item name="colorSurfaceVariant">@color/md_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/md_on_surface_variant</item>
+
+        <item name="colorOutline">@color/md_outline</item>
+
+        <!-- Background base -->
+        <item name="android:colorBackground">@color/md_surface</item>
+
+        <!-- Opcional: looks más pro en inputs -->
+        <item name="textInputStyle">@style/Widget.Material3.TextInputLayout.FilledBox</item>
+
+    </style>
+
+    <style name="Theme.AppPECL3" parent="Base.Theme.AppPECL3"/>
+
+    <!-- ===== Overlay CYBER (se aplica por código) ===== -->
+    <style name="ThemeOverlay.AppPECL3.Cyber" parent="">
+
+        <item name="colorPrimary">@color/cy_primary</item>
+        <item name="colorOnPrimary">@color/cy_on_primary</item>
+
+        <item name="colorSecondary">@color/cy_secondary</item>
+        <item name="colorOnSecondary">@color/cy_on_secondary</item>
+
+        <item name="colorSurface">@color/cy_surface</item>
+        <item name="colorOnSurface">@color/cy_on_surface</item>
+        <item name="colorSurfaceVariant">@color/cy_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/cy_on_surface_variant</item>
+
+        <item name="colorOutline">@color/cy_outline</item>
+        <item name="android:colorBackground">@color/cy_surface</item>
+    </style>
+
+    <!-- ===== Overlay STRANGER (se aplica por código) ===== -->
+    <style name="ThemeOverlay.AppPECL3.Stranger" parent="">
+        <item name="colorPrimary">@color/st_primary</item>
+        <item name="colorOnPrimary">@color/st_on_primary</item>
+
+        <item name="colorSecondary">@color/st_secondary</item>
+        <item name="colorOnSecondary">@color/st_on_secondary</item>
+
+        <item name="colorSurface">@color/st_surface</item>
+        <item name="colorOnSurface">@color/st_on_surface</item>
+        <item name="colorSurfaceVariant">@color/st_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/st_on_surface_variant</item>
+
+        <item name="colorOutline">@color/st_outline</item>
+        <item name="android:colorBackground">@color/st_surface</item>
+    </style>
+
+
+</resources>

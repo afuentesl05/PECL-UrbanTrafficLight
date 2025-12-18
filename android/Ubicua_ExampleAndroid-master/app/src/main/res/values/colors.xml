@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ========= Material tokens (LIGHT) ========= -->
+    <color name="md_primary">#4F46E5</color>
+    <color name="md_on_primary">#FFFFFF</color>
+    <color name="md_primary_container">#E3E1FF</color>
+    <color name="md_on_primary_container">#14123A</color>
+
+    <color name="md_secondary">#06B6D4</color>
+    <color name="md_on_secondary">#001519</color>
+
+    <color name="md_surface">#FAFAFF</color>
+    <color name="md_on_surface">#111127</color>
+    <color name="md_surface_variant">#E8E7F3</color>
+    <color name="md_on_surface_variant">#4B4E66</color>
+
+    <color name="md_outline">#B9B8C8</color>
+    <color name="md_error">#B3261E</color>
+    <color name="md_on_error">#FFFFFF</color>
+
+    <!-- ========= Legacy (para tus XML antiguos) ========= -->
+    <color name="tl_background">@color/md_surface</color>
+    <color name="tl_card">@color/md_surface_variant</color>
+    <color name="tl_accent">@color/md_primary</color>
+    <color name="tl_accent_dark">#3B36B8</color>
+    <color name="tl_text_primary">@color/md_on_surface</color>
+    <color name="tl_text_secondary">@color/md_on_surface_variant</color>
+
+    <!-- Semáforo (fijos) -->
+    <color name="tl_green">#22C55E</color>
+    <color name="tl_red">#EF4444</color>
+    <color name="tl_amber">#F59E0B</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- ========= Cyber palette (solo para overlay) ========= -->
+    <color name="cy_primary">#C592FF</color>
+    <color name="cy_on_primary">#140A24</color>
+
+    <color name="cy_surface">#050513</color>
+    <color name="cy_on_surface">#FFFFFF</color>
+    <color name="cy_surface_variant">#151527</color>
+    <color name="cy_on_surface_variant">#B3B6D0</color>
+
+    <color name="cy_outline">#2C2C46</color>
+    <color name="cy_secondary">#4DEEEA</color>
+    <color name="cy_on_secondary">#001A1A</color>
+
+    <!-- ===== Stranger palette (overlay) ===== -->
+    <color name="st_primary">#E50914</color>
+    <color name="st_on_primary">#FFFFFF</color>
+
+    <color name="st_secondary">#FF4D4D</color>
+    <color name="st_on_secondary">#1A0000</color>
+
+    <color name="st_surface">#07070C</color>
+    <color name="st_on_surface">#FFFFFF</color>
+    <color name="st_surface_variant">#13131D</color>
+    <color name="st_on_surface_variant">#D6D6E6</color>
+
+    <color name="st_outline">#3A1A1E</color>
+
+
+</resources>
